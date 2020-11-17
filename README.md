@@ -1,6 +1,6 @@
 # Hi there 👋, nice to meet you <img src="http://www.gomotes.com/emoticon/tiphat.gif" height="40px" widht="40px" alt="Tip Hat Emoticon" />
 
-Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspire to specialize in game development, artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and thrive to improve myself. Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read in my spare time, and have an interest in science and mathematics. I'm very curious about how the universe work, how things that may seem unrelated can be very connected. My goal in life is to learn as much as possible, by the end of this year (2021). I hope to work on more projects related to mobile and game development, DevOps, lower-level programming languages, and algorithms. I'm aware of my strengths and weaknesses and able to build on my strengths, I often seek improvement in whatever I do and preserves to achieve my personal best. I am able to manage uncertainty and handle stressful situations with composure. Now that you know me, [I want to know you too :)](#contact)
+Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspire to specialize in game development, artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and thrive to improve myself. Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read in my spare time, and have an interest in science and mathematics. I'm curious about how the universe work, how things that may seem unrelated can be very connected. My goal in life is to learn as much as possible, by the end of this year (2021). I hope to work on more projects related to mobile and game development, DevOps, lower-level programming languages, and algorithms. I'm aware of my strengths and weaknesses and able to build on my strengths, I often seek improvement in whatever I do and preserves to achieve my personal best. I can manage uncertainty and handle stressful situations with composure. Now that you know me, [I want to know you too :)](#connect-with-me)
 
 - 🔭 I’m currently working on ...
   - [Salt Rice](https://github.com/thatsarunb4u/code4sg)
@@ -17,6 +17,7 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 
 ## My skillset
 <table><tr><td valign="top" width="33%">
+ 
 ### Frontend
 <div align="center">
 <img style="margin: 10px;" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,6 +30,7 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 <img style="margin: 10px;" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img style="margin: 10px;" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </div></td><td valign="top" width="33%">
+  
 ### Backend
 <div align="center">
 <img style="margin: 10px;" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -42,8 +44,14 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 <img style="margin: 10px;" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img style="margin: 10px;" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img style="margin: 10px;" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div></td><td valign="top" width="30">
+  
 ### DevOps
+<div align="center">
 <img style="margin: 10px;" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img style="margin: 10px;" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -51,15 +59,11 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-</td>
+</div></td>
 </table>
 
 ## How I spent my time in the last few days
@@ -152,5 +156,17 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Contact
+## Connect with me
+<div align="center">
+<img src="https://img.shields.io/badge/felixisaacdev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 
+<a href="https://linkedin.com/felixisaac" target="_blank">
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</div>
+
+
+<!-- Used https://github.com/Ileriayo/markdown-badges to generate badges -->
