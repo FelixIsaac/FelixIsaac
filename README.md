@@ -1,6 +1,6 @@
 # Hi there 👋, nice to meet you <img src="http://www.gomotes.com/emoticon/tiphat.gif" height="40px" widht="40px" alt="Tip Hat Emoticon" />
 
-Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspire to specialize in game development, artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and thrive to improve myself. Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read in my spare time, and have an interest in science and mathematics. I'm curious about how the universe work, how things that may seem unrelated can be very connected. My goal in life is to learn as much as possible, by the end of this year (2021). I hope to work on more projects related to mobile and game development, DevOps, lower-level programming languages, and algorithms. I'm aware of my strengths and weaknesses and able to build on my strengths, I often seek improvement in whatever I do and preserves to achieve my personal best. I can manage uncertainty and handle stressful situations with composure. Now that you know me, [I want to know you too :)](#connect-with-me)
+Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspires to specialize in artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and thrive to improve myself. Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read, and watch shows in leisure. I'm curious about how the universe work, how things that may seem unrelated can be very connected and have an interest in science and mathematics. My goal in life is to learn as much as possible, by the end of this year (2021). I hope to learn and to work on more projects related to mobile and game development, DevOps, lower-level programming languages, and algorithms. I'm aware of my strengths and weaknesses and able to build on my strengths, I often seek improvement in whatever I do and preserves to achieve my personal best. I can manage uncertainty and handle stressful situations with composure. Now that you know me, [I want to know you too :)](#connect-with-me)
 
 - 🔭 I’m currently working on ...
   - [Salt Rice](https://github.com/thatsarunb4u/code4sg)
@@ -8,10 +8,11 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
   - [Fei Yue dashboard](https://github.com/FelixIsaac/fei-yue-food-fiesta)
   - [Discordlistology.com (version 2)](https://discordlistology.com)
 - 🌱 I’m currently learning **Web design/UI Design, C++, CSS, and SQL**
-- 👯 I’m looking to collaborate on **anything that will help build my portfolio and skills**
+- 👯 I’m looking to collaborate on **anything as I'm trying to build my portfolio and skills**
 - 🤔 I’m looking for help with Web Graphic Design and UI design
 - 💬 Ask me about: **MERN, MEVN, TypeScript, Python and Flask/Django, and related techonologies**
 - 📫 How to reach me: me@felixisaac.dev
+- 👨‍💻 All of my projects are available at https://felixisaac.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love keyboards, Star Trek and cats 😻
 
@@ -158,15 +159,18 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 ## Connect with me
 <div align="center">
+<a href="https://twitter.com/felixisaacdev" target="_blank">
 <img src="https://img.shields.io/badge/felixisaacdev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-
-<a href="https://linkedin.com/felixisaac" target="_blank">
+</a>
+<a href="https://sg.linkedin.com/in/felixisaac" target="_blank">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<a href="https://www.hackerrank.com/felixisaacdev" target="_blank">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<a>
+<a href="https://stackoverflow.com/users/10927618/felix-isaac" taget="_blank">
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
 </div>
-
 
 <!-- Used https://github.com/Ileriayo/markdown-badges to generate badges -->
