@@ -17,6 +17,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Github statistics
 [![Felix Isaac's stats](https://github-readme-stats.vercel.app/api?username=felixisaac&count_private=true&show_icons=true&theme=dark)](https://github.com/FelixIsaac)
 [![Top languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=felixisaac&layout=compact&theme=dark)](https://github.com/FelixIsaac)
