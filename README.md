@@ -10,10 +10,10 @@ asdfsfsfsdfsfa
 - 🌱 I’m currently learning **Web design/UI Design, C++, CSS, and SQL**
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 🤔 I’m looking for help with Web Graphic Design and UI design
-- 💬 Ask me about: **TypeScript, React, Vue, Express, Fastify, Python, and Flask/Django**
+- 💬 Ask me about: **MERN, MEVN, TypeScript, Python and Flask/Django, and related techonologies**
 - 📫 How to reach me: me@felixisaac.dev
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love cats and keyboards
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
@@ -97,3 +97,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+## Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
