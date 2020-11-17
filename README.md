@@ -1,6 +1,6 @@
 # Hi there 👋, nice to meet you <img src="http://www.gomotes.com/emoticon/tiphat.gif" height="40px" widht="40px" alt="Tip Hat Emoticon" />
 
-Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspires to specialize in artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and thrive to improve myself. Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read, and watch shows in leisure. I'm curious about how the universe work, how things that may seem unrelated can be very connected and have an interest in science and mathematics. My goal in life is to learn as much as possible, by the end of this year (2021). I hope to learn and to work on more projects related to mobile and game development, DevOps, lower-level programming languages, and algorithms. I'm aware of my strengths and weaknesses and able to build on my strengths, I often seek improvement in whatever I do and preserves to achieve my personal best. I can manage uncertainty and handle stressful situations with composure. Now that you know me, [I want to know you too :)](#connect-with-me)
+Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspires to specialize in artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and thrive to improve myself. Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read, and watch shows in leisure. I'm curious about how the universe work, how things that may seem unrelated can be very connected and have an interest in science and mathematics. My goal in life is to learn as much as possible, by the end of this year (2021). I hope to learn and to work on more projects related to mobile and game development, DevOps, lower-level programming languages and algorithms, and also start on competitive programming and hackathons. I'm aware of my strengths and weaknesses and able to build on my strengths, I often seek improvement in whatever I do and preserves to achieve my personal best. I can manage uncertainty and handle stressful situations with composure. Now that you know me, [I want to know you too :)](#connect-with-me)
 
 - 🔭 I’m currently working on ...
   - [Salt Rice](https://github.com/thatsarunb4u/code4sg)
@@ -10,11 +10,12 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 - 🌱 I’m currently learning **Web design/UI Design, C++, CSS, and SQL**
 - 👯 I’m looking to collaborate on **anything as I'm trying to build my portfolio and skills**
 - 🤔 I’m looking for help with Web Graphic Design and UI design
-- 💬 Ask me about: **MERN, MEVN, TypeScript, Python and Flask/Django, and related techonologies**
+- 💬 Ask me about **MERN, MEVN, TypeScript, Python and Flask/Django, and related techonologies**
 - 📫 How to reach me: me@felixisaac.dev
 - 👨‍💻 All of my projects are available at https://felixisaac.dev
+- 📝 I regulary write articles on https://felixisaac.dev/blog
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love keyboards, Star Trek and cats 😻
+- ⚡ Fun fact: I love keyboards, Star Trek and cats
 
 ## My skillset
 <table><tr><td valign="top" width="33%">
@@ -149,6 +150,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 [![Felix Isaac's stats](https://github-readme-stats.vercel.app/api?username=felixisaac&count_private=true&show_icons=true&theme=dark)](https://github.com/FelixIsaac)
 [![Top languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=felixisaac&layout=compact&theme=dark)](https://github.com/FelixIsaac)
 
+### Recent activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/FelixIsaac/tasks-to-do/pull/3) in [FelixIsaac/tasks-to-do](https://github.com/FelixIsaac/tasks-to-do)
 <!--END_SECTION:activity-->
@@ -173,4 +175,4 @@ HTML                     1 repo              ██░░░░░░░░░�
 </a>
 </div>
 
-<!-- Used https://github.com/Ileriayo/markdown-badges to generate badges -->
+<!-- Used https://github.com/Ileriayo/markdown-badges and https://simpleicons.org/ to generate badges -->
