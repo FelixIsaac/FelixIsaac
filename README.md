@@ -96,6 +96,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 [![Top languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=felixisaac&layout=compact&theme=dark)](https://github.com/FelixIsaac)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/FelixIsaac/tasks-to-do/pull/3) in [FelixIsaac/tasks-to-do](https://github.com/FelixIsaac/tasks-to-do)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
