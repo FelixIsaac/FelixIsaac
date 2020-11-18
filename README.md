@@ -152,7 +152,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/FelixIsaac/tasks-to-do/pull/3) in [FelixIsaac/tasks-to-do](https://github.com/FelixIsaac/tasks-to-do)
+1. 💪 Opened PR [#9](https://github.com/thatsarunb4u/code4sg/pull/9) in [thatsarunb4u/code4sg](https://github.com/thatsarunb4u/code4sg)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
