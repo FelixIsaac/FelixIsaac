@@ -71,19 +71,17 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 552 Contributions in the Year 2020
+> 🏆 563 Contributions in the Year 2020
  > 
 > 📦 35.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories
+> 📜 7 Public Repositories
  > 
-> 🔑 7 Private Repositories 
+> 🔑 6 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -111,33 +109,10 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+felixisaac.dev           0 secs              █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
 
 **Timeline**
 
