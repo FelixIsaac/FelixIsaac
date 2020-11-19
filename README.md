@@ -127,7 +127,7 @@ felixisaac.dev           0 secs              ███████████�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/thatsarunb4u/code4sg/pull/9) in [thatsarunb4u/code4sg](https://github.com/thatsarunb4u/code4sg)
+1. 🎉 Merged PR [#4](https://github.com/FelixIsaac/tasks-to-do/pull/4) in [FelixIsaac/tasks-to-do](https://github.com/FelixIsaac/tasks-to-do)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
