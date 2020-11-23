@@ -75,7 +75,7 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 
 > 🏆 579 Contributions in the Year 2020
  > 
-> 📦 35.2 kB Used in Github's Storage 
+> 📦 35.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,7 +110,9 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-felixisaac.dev           6 hrs 26 mins       █████████████████████████   100.0%
+felixisaac.dev           6 hrs 26 mins       █████████████████░░░░░░░░   69.24% 
+salt-rice                2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   30.68% 
+code4sg                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 ```
 
