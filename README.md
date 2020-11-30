@@ -73,7 +73,7 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 📦 35.9 kB Used in Github's Storage 
+> 📦 36.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -108,9 +108,7 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-felixisaac.dev           18 hrs 51 mins      █████████████████████░░░░   86.81% 
-salt-rice                2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
-code4sg                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+felixisaac.dev           21 hrs 43 mins      █████████████████████████   100.0%
 
 ```
 
