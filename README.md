@@ -73,9 +73,9 @@ Saluations, I'm [Felix](https://felixisaac.dev), a full-stack web and app develo
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 790 Contributions in the Year 2020
+> 🏆 799 Contributions in the Year 2020
  > 
-> 📦 37.3 kB Used in Github's Storage 
+> 📦 37.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,9 +110,10 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-discordlistology.com     17 hrs 4 mins       █████████████░░░░░░░░░░░░   51.98% 
-felixisaac.dev           15 hrs 39 mins      ████████████░░░░░░░░░░░░░   47.64% 
-fei-yue-food-fiesta      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
+discordlistology.com     17 hrs 4 mins       ████████████░░░░░░░░░░░░░   49.15% 
+felixisaac.dev           15 hrs 54 mins      ███████████░░░░░░░░░░░░░░   45.78% 
+salt-rice                1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+fei-yue-food-fiesta      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
 LightEditProject         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
