@@ -131,7 +131,7 @@ LightEditProject         0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/FelixIsaac/typing-test/pull/6) in [FelixIsaac/typing-test](https://github.com/FelixIsaac/typing-test)
+1. 🎉 Merged PR [#5](https://github.com/FelixIsaac/tasks-to-do/pull/5) in [FelixIsaac/tasks-to-do](https://github.com/FelixIsaac/tasks-to-do)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
