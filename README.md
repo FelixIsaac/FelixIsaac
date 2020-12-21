@@ -130,7 +130,7 @@ code4sg                  0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/FelixIsaac/tasks-to-do/pull/5) in [FelixIsaac/tasks-to-do](https://github.com/FelixIsaac/tasks-to-do)
+1. 💪 Opened PR [#3](https://github.com/norbeyandresg/hades/pull/3) in [norbeyandresg/hades](https://github.com/norbeyandresg/hades)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
