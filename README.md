@@ -73,13 +73,13 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 809 Contributions in the Year 2020
+> 🏆 808 Contributions in the Year 2020
  > 
 > 📦 38.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -110,10 +110,9 @@ Sunday       56 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-felixisaac.dev           29 hrs 18 mins      ███████████████████████░░   95.16% 
-salt-rice                1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
-discordlistology.com     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
-code4sg                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+felixisaac.dev           25 hrs 51 mins      ████████████████████████░   96.95% 
+salt-rice                33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
+discordlistology.com     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 ```
 
