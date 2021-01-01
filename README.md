@@ -73,7 +73,7 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 951 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 37.0 kB Used in Github's Storage 
  > 
@@ -110,7 +110,7 @@ Sunday       76 commits     ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-felixisaac.dev           25 hrs 49 mins      █████████████████████████   100.0%
+felixisaac.dev           21 hrs 24 mins      █████████████████████████   100.0%
 
 ```
 
