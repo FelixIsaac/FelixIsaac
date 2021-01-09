@@ -125,7 +125,7 @@ felixisaac.dev           4 hrs 12 mins       ███████████�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/norbeyandresg/hades/pull/3) in [norbeyandresg/hades](https://github.com/norbeyandresg/hades)
+1. 🎉 Merged PR [#7](https://github.com/FelixIsaac/typing-test/pull/7) in [FelixIsaac/typing-test](https://github.com/FelixIsaac/typing-test)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
