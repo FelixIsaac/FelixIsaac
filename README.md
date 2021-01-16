@@ -108,14 +108,14 @@ Sunday       74 commits     ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-felixisaac.dev           5 hrs 33 mins       █████████████████████████   99.85% 
-LightEditProject         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+felixisaac.dev           6 hrs 2 mins        █████████████████████████   99.86% 
+LightEditProject         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 ```
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
