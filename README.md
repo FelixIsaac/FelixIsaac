@@ -73,7 +73,7 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 
 > 🏆 53 Contributions in the Year 2021
  > 
-> 📦 37.6 kB Used in Github's Storage 
+> 📦 37.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
