@@ -71,15 +71,15 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 62 Contributions in the Year 2021
+> 🏆 63 Contributions in the Year 2021
  > 
 > 📦 37.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
