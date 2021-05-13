@@ -125,7 +125,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AbsoluteZeroist/AZI-meows/pull/1) in [AbsoluteZeroist/AZI-meows](https://github.com/AbsoluteZeroist/AZI-meows)
+1. ❗️ Opened issue [#15](https://github.com/FelixIsaac/typing-test/issues/15) in [FelixIsaac/typing-test](https://github.com/FelixIsaac/typing-test)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
