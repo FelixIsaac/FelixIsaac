@@ -125,7 +125,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/FelixIsaac/typing-test/issues/15) in [FelixIsaac/typing-test](https://github.com/FelixIsaac/typing-test)
+1. 🎉 Merged PR [#1](https://github.com/FelixIsaac/calculator-emulator/pull/1) in [FelixIsaac/calculator-emulator](https://github.com/FelixIsaac/calculator-emulator)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
