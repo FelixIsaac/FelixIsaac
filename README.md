@@ -125,7 +125,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/FelixIsaac/calculator-emulator/pull/1) in [FelixIsaac/calculator-emulator](https://github.com/FelixIsaac/calculator-emulator)
+1. 🎉 Merged PR [#4](https://github.com/FelixIsaac/netflix-addictector/pull/4) in [FelixIsaac/netflix-addictector](https://github.com/FelixIsaac/netflix-addictector)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
