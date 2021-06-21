@@ -126,7 +126,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/FelixIsaac/netflix-addictector/pull/4) in [FelixIsaac/netflix-addictector](https://github.com/FelixIsaac/netflix-addictector)
+1. 🎉 Merged PR [#1](https://github.com/FelixIsaac/kopi-cats/pull/1) in [FelixIsaac/kopi-cats](https://github.com/FelixIsaac/kopi-cats)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
