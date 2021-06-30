@@ -126,7 +126,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/FelixIsaac/hillgrove_python_server/issues/1) in [FelixIsaac/hillgrove_python_server](https://github.com/FelixIsaac/hillgrove_python_server)
+1. 🎉 Merged PR [#3](https://github.com/FelixIsaac/kopi-cats/pull/3) in [FelixIsaac/kopi-cats](https://github.com/FelixIsaac/kopi-cats)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
