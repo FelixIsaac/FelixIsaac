@@ -126,7 +126,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/FelixIsaac/kopi-cats/issues/8) in [FelixIsaac/kopi-cats](https://github.com/FelixIsaac/kopi-cats)
+1. 💪 Opened PR [#3](https://github.com/icesotope41/tryingOutPyGame/pull/3) in [icesotope41/tryingOutPyGame](https://github.com/icesotope41/tryingOutPyGame)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
