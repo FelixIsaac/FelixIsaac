@@ -126,7 +126,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/icesotope41/tryingOutPyGame/pull/3) in [icesotope41/tryingOutPyGame](https://github.com/icesotope41/tryingOutPyGame)
+1. 🎉 Merged PR [#12](https://github.com/FelixIsaac/kopi-cats/pull/12) in [FelixIsaac/kopi-cats](https://github.com/FelixIsaac/kopi-cats)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
