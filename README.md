@@ -128,7 +128,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/FelixIsaac/kopi-cats/pull/12) in [FelixIsaac/kopi-cats](https://github.com/FelixIsaac/kopi-cats)
+1. 🎉 Merged PR [#14](https://github.com/FelixIsaac/kopi-cats/pull/14) in [FelixIsaac/kopi-cats](https://github.com/FelixIsaac/kopi-cats)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
