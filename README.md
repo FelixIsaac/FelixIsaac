@@ -3,9 +3,11 @@
 Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspires to specialize in artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and thrive to improve myself. Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read, and watch shows in leisure. I'm curious about how the universe work, how things that may seem unrelated can be very connected and have an interest in science and mathematics. My goal in life is to learn as much as possible, by the end of this year. I hope to learn and to work on more projects related to mobile and game development, DevOps, lower-level programming languages and algorithms, and also start on competitive programming and hackathons. I'm aware of my strengths and weaknesses and able to build on my strengths, I often seek improvement in whatever I do and preserves to achieve my personal best. I can manage uncertainty and handle stressful situations with composure. Now that you know me, [I want to know you too :)](#connect-with-me)
 
 - 🔭 I’m currently working on ...
+  - [Hillgrove Python Course](https://hillgrove.codes)
+  - [Netflix Addictector](https://chrome.google.com/webstore/detail/netflix-addictector-%E2%80%93-net/loooaabonmaodiehbknmpmngbeklblne)
   - [Fei Yue dashboard](https://github.com/FelixIsaac/fei-yue-food-fiesta)
   - [Discordlistology.com (version 2)](https://discordlistology.com)
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust and Kotlin**
 - 👯 I’m looking to collaborate on **anything as I'm trying to build my portfolio and skills**
 - 🤔 I’m looking for help with Web Graphic Design and UI design
 - 💬 Ask me about **MERN, MEVN, TypeScript, Python and Flask/Django, and related techonologies**
