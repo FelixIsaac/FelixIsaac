@@ -110,9 +110,8 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillgrove-python         1 hr 39 mins        ████████████████████░░░░░   82.63% 
-hillgrove_python_server  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-your-app-name            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+hillgrove-python         1 hr 9 mins         ███████████████████░░░░░░   77.95% 
+hillgrove_python_server  19 mins             █████░░░░░░░░░░░░░░░░░░░░   22.05%
 
 ```
 
@@ -121,7 +120,7 @@ your-app-name            1 min               ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/08/2021
+ Last Updated on 02/08/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
