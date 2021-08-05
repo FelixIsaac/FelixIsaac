@@ -75,7 +75,7 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 
 > 🏆 441 Contributions in the Year 2021
  > 
-> 📦 69.2 kB Used in Github's Storage 
+> 📦 69.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,8 +110,8 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillgrove-python         1 hr 9 mins         ███████████████████░░░░░░   77.95% 
-hillgrove_python_server  19 mins             █████░░░░░░░░░░░░░░░░░░░░   22.05%
+hillgrove-python         36 mins             ████████████████░░░░░░░░░   65.17% 
+hillgrove_python_server  19 mins             ████████░░░░░░░░░░░░░░░░░   34.83%
 
 ```
 
@@ -120,7 +120,7 @@ hillgrove_python_server  19 mins             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/08/2021
+ Last Updated on 05/08/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
