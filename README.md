@@ -75,7 +75,7 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 
 > 🏆 449 Contributions in the Year 2021
  > 
-> 📦 70.8 kB Used in Github's Storage 
+> 📦 71.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,7 +119,7 @@ netflix-addictector      1 hr 32 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2021
+ Last Updated on 17/09/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
