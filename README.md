@@ -110,7 +110,7 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-netflix-addictector      1 hr 32 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -119,7 +119,7 @@ netflix-addictector      1 hr 32 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/09/2021
+ Last Updated on 19/09/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
