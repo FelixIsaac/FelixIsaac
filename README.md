@@ -71,11 +71,11 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 449 Contributions in the Year 2021
  > 
-> 📦 71.0 kB Used in Github's Storage 
+> 📦 71.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,7 +119,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
