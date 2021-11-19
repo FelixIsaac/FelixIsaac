@@ -73,9 +73,9 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 449 Contributions in the Year 2021
+> 🏆 453 Contributions in the Year 2021
  > 
-> 📦 72.3 kB Used in GitHub's Storage 
+> 📦 72.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,21 +86,21 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+🌞 Morning    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
 🌆 Daytime    189 commits    ██████░░░░░░░░░░░░░░░░░░░   24.02% 
-🌃 Evening    277 commits    ████████░░░░░░░░░░░░░░░░░   35.2% 
-🌙 Night      221 commits    ███████░░░░░░░░░░░░░░░░░░   28.08%
+🌃 Evening    273 commits    ████████░░░░░░░░░░░░░░░░░   34.69% 
+🌙 Night      223 commits    ███████░░░░░░░░░░░░░░░░░░   28.34%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
 Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
 Wednesday    112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
 Thursday     122 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
 Friday       76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
-Saturday     136 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+Saturday     140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.79% 
 Sunday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.41%
 
 ```
@@ -119,7 +119,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/11/2021
+ Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
