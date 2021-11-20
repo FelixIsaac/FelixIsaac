@@ -110,7 +110,9 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hooked                   1 hr 47 mins        ██████████████░░░░░░░░░░░   59.02% 
+blended-donut            1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.13% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
 
 ```
 
@@ -119,7 +121,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/11/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
