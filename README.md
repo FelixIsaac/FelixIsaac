@@ -133,7 +133,7 @@ Unknown Project          1 min               ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/FelixIsaac/netflix-addictector/issues/5) in [FelixIsaac/netflix-addictector](https://github.com/FelixIsaac/netflix-addictector)
+1. 🎉 Merged PR [#17](https://github.com/FelixIsaac/typing-test/pull/17) in [FelixIsaac/typing-test](https://github.com/FelixIsaac/typing-test)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
