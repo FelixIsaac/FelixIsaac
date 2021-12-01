@@ -113,8 +113,8 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hooked-com               4 mins              █████████████████░░░░░░░░   67.5% 
-New folder               2 mins              ████████░░░░░░░░░░░░░░░░░   32.5%
+hooked-com               19 mins             ██████████████████████░░░   89.45% 
+New folder               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.55%
 
 ```
 
@@ -123,7 +123,7 @@ New folder               2 mins              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
