@@ -78,7 +78,7 @@ Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app devel
 
 > 🏆 486 Contributions in the Year 2021
  > 
-> 📦 77.4 kB Used in GitHub's Storage 
+> 📦 77.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -113,8 +113,7 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hooked-com               19 mins             ██████████████████████░░░   89.45% 
-New folder               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.55%
+hooked-com               1 hr 25 mins        █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +122,7 @@ New folder               2 mins              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
