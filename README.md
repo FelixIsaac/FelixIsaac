@@ -113,7 +113,7 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hooked-com               1 hr 51 mins        █████████████████████████   100.0%
+hooked-com               2 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +122,7 @@ hooked-com               1 hr 51 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
