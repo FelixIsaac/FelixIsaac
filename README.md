@@ -131,7 +131,7 @@ hooked-com               2 hrs 52 mins       ███████████�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/FelixIsaac/typing-test/pull/17) in [FelixIsaac/typing-test](https://github.com/FelixIsaac/typing-test)
+1. 🎉 Merged PR [#2](https://github.com/FelixIsaac/hillgrove-python/pull/2) in [FelixIsaac/hillgrove-python](https://github.com/FelixIsaac/hillgrove-python)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
