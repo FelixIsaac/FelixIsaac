@@ -1,6 +1,16 @@
 # Hi there 👋, nice to meet you <img src="http://www.gomotes.com/emoticon/tiphat.gif" height="40px" widht="40px" alt="Tip Hat Emoticon" />
 
-Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspires to specialize in artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and strive to improve myself. Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read, and watch shows in leisure. I'm curious about how the universe work, how things that may seem unrelated can be very connected and have an interest in science and mathematics. My goal in life is to learn as much as possible, by the end of this year. I aim to learn and to work on more projects related to mobile and game development, DevOps, lower-level programming languages, and also take part in hackathons. I'm aware of my strengths and weaknesses and able to build on my strengths, I often seek improvement in whatever I do and persevere to achieve my personal best. I can manage uncertainty and handle stressful situations with composure. Now that you know me, [I want to know you too :)](#connect-with-me)
+Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspires to specialize in artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and strive to improve myself.
+
+Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read, and watch shows in leisure. I'm curious about how the universe work, how things that may seem unrelated can be very connected and have an interest in science and mathematics.
+
+My goal in life is to learn as much as possible so that I can teach educate others about the wonders of the world, and to solve real-world problems through computer programming and engineering. By the end of this year, I aim to learn and to work on more projects related to mobile and game development, DevOps, lower-level programming languages, and also take part in hackathons.
+
+I'm aware of my strengths and weaknesses and able to build on my strengths. I often seek improvement in whatever I do and persevere to achieve my personal best. I can manage uncertainty and handle stressful situations with composure.
+
+Now that you know more about me, [let's connect so that I know more about you :)](#connect-with-me)
+
+##
 
 - 🔭 I’m currently working on ...
   - Hooked **(Coming soon)**
