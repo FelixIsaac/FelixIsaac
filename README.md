@@ -123,8 +123,8 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-netflix-addictector      7 hrs 57 mins       ███████████████░░░░░░░░░░   61.91% 
-sggreencross             4 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   38.09%
+sggreencross             5 hrs 17 mins       █████████████░░░░░░░░░░░░   54.67% 
+netflix-addictector      4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.33%
 
 ```
 
@@ -133,7 +133,7 @@ sggreencross             4 hrs 53 mins       █████████░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 22/12/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
