@@ -86,9 +86,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 535 Contributions in the Year 2021
+> 🏆 536 Contributions in the Year 2021
  > 
-> 📦 87.5 kB Used in GitHub's Storage 
+> 📦 87.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -123,7 +123,8 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-sggreencross             5 hrs 17 mins       █████████████████████████   100.0%
+sggreencross             5 hrs 17 mins       ████████████████████████░   96.0% 
+netflix-addictector      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 
@@ -132,7 +133,7 @@ sggreencross             5 hrs 17 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/12/2021
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
 ## Github statistics
