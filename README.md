@@ -86,7 +86,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 555 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 87.7 kB Used in GitHub's Storage 
  > 
@@ -100,8 +100,8 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 ```text
 🌞 Morning    108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-🌆 Daytime    190 commits    ██████░░░░░░░░░░░░░░░░░░░   24.27% 
-🌃 Evening    265 commits    ████████░░░░░░░░░░░░░░░░░   33.84% 
+🌆 Daytime    188 commits    ██████░░░░░░░░░░░░░░░░░░░   24.01% 
+🌃 Evening    267 commits    ████████░░░░░░░░░░░░░░░░░   34.1% 
 🌙 Night      220 commits    ███████░░░░░░░░░░░░░░░░░░   28.1%
 
 ```
@@ -110,9 +110,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ```text
 Monday       131 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
 Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Wednesday    93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
+Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
 Thursday     116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-Friday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
+Friday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
 Saturday     146 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.65% 
 Sunday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.99%
 
@@ -132,7 +132,7 @@ netflix-addictector      9 hrs 56 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 ## Github statistics
