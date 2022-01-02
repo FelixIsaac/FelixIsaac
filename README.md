@@ -137,7 +137,6 @@ netflix-addictector      1 hr 53 mins        ███████████�
 
 ## Github statistics
 [![Felix Isaac's stats](https://github-readme-stats.vercel.app/api?username=felixisaac&count_private=true&show_icons=true&theme=dark)](https://github.com/FelixIsaac)
-[![Top languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=felixisaac&layout=compact&theme=dark)](https://github.com/FelixIsaac)
 
 ### Recent activity
 <!--START_SECTION:activity-->
