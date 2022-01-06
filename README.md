@@ -88,7 +88,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 🏆 10 Contributions in the Year 2022
  > 
-> 📦 87.8 kB Used in GitHub's Storage 
+> 📦 87.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -123,8 +123,8 @@ Sunday       133 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-netflix-addictector      1 hr 31 mins        ███████████████░░░░░░░░░░   59.75% 
-sggreencross             1 hr 1 min          ██████████░░░░░░░░░░░░░░░   40.25%
+netflix-addictector      1 hr 30 mins        ██████████████░░░░░░░░░░░   59.32% 
+sggreencross             1 hr 1 min          ██████████░░░░░░░░░░░░░░░   40.68%
 
 ```
 
@@ -133,7 +133,7 @@ sggreencross             1 hr 1 min          ██████████░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/01/2022
+ Last Updated on 06/01/2022
 <!--END_SECTION:waka-->
 
 ## Github statistics
