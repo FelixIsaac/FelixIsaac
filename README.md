@@ -88,7 +88,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 🏆 14 Contributions in the Year 2022
  > 
-> 📦 88.6 kB Used in GitHub's Storage 
+> 📦 88.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -123,7 +123,7 @@ Sunday       133 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sggreencross             2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +132,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/01/2022
+ Last Updated on 15/01/2022
 <!--END_SECTION:waka-->
 
 ## Github statistics
