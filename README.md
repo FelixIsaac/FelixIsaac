@@ -88,7 +88,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 🏆 42 Contributions in the Year 2022
  > 
-> 📦 93.3 kB Used in GitHub's Storage 
+> 📦 80.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -132,7 +132,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 08:47:48 UTC
+ Last Updated on 01/05/2022 08:43:37 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
