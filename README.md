@@ -123,7 +123,9 @@ Sunday       141 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pongmates                4 hrs 3 mins        ███████████████░░░░░░░░░░   63.29% 
+snak                     2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.69% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
@@ -132,7 +134,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/05/2022 08:43:37 UTC
+ Last Updated on 04/05/2022 08:45:57 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
