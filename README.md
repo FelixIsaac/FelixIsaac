@@ -84,6 +84,8 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 42 Contributions in the Year 2022
@@ -135,7 +137,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 08:45:35 UTC
+ Last Updated on 08/05/2022 08:43:49 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
