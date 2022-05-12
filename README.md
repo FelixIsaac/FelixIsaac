@@ -84,7 +84,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -125,10 +125,7 @@ Sunday       141 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-snak                     2 hrs 31 mins       █████████████░░░░░░░░░░░░   55.11% 
-snake & ladders          2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.8% 
-pongmates                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 ```
 
@@ -137,7 +134,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 08:47:44 UTC
+ Last Updated on 12/05/2022 08:47:21 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
