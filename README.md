@@ -142,7 +142,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/FelixIsaac/hillgrove-python/pull/4) in [FelixIsaac/hillgrove-python](https://github.com/FelixIsaac/hillgrove-python)
+1. 🎉 Merged PR [#12](https://github.com/FelixIsaac/netflix-addictector/pull/12) in [FelixIsaac/netflix-addictector](https://github.com/FelixIsaac/netflix-addictector)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
