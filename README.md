@@ -142,7 +142,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/FelixIsaac/netflix-addictector/pull/12) in [FelixIsaac/netflix-addictector](https://github.com/FelixIsaac/netflix-addictector)
+1. ❗️ Opened issue [#3](https://github.com/FelixIsaac/silver-forum/issues/3) in [FelixIsaac/silver-forum](https://github.com/FelixIsaac/silver-forum)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
