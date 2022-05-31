@@ -143,7 +143,7 @@ pongmates                0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/FelixIsaac/silver-forum/pull/6) in [FelixIsaac/silver-forum](https://github.com/FelixIsaac/silver-forum)
+1. 🗣 Commented on [#6](https://github.com/FelixIsaac/silver-forum/issues/6) in [FelixIsaac/silver-forum](https://github.com/FelixIsaac/silver-forum)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
