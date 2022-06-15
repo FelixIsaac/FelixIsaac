@@ -125,7 +125,7 @@ Sunday       146 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -134,7 +134,7 @@ Unknown Project          0 secs              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/06/2022 08:45:23 UTC
+ Last Updated on 15/06/2022 08:46:57 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
