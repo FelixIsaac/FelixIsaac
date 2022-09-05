@@ -84,7 +84,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,12 +98,43 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 🔑 6 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+🌆 Daytime    195 commits    ██████░░░░░░░░░░░░░░░░░░░   24.19% 
+🌃 Evening    269 commits    ████████░░░░░░░░░░░░░░░░░   33.37% 
+🌙 Night      239 commits    ███████░░░░░░░░░░░░░░░░░░   29.65%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       162 commits    █████░░░░░░░░░░░░░░░░░░░░   20.1% 
+Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
+Wednesday    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Thursday     105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+Friday       70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
+Saturday     144 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
+Sunday       145 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.99%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 08:45:22 UTC
+ Last Updated on 05/09/2022 08:47:15 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
