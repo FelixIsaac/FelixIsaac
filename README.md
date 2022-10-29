@@ -1,12 +1,10 @@
 # Hi there 👋, nice to meet you <img src="http://www.gomotes.com/emoticon/tiphat.gif" height="40px" widht="40px" alt="Tip Hat Emoticon" />
 
-Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspires to specialize in artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and strive to improve myself.
+Salutations, I'm [Felix](https://felixisaac.dev), a full-stack web and app developer who aspires to specialize in artificial intelligence and machine learning. I'm a person who can think abstractly while continuously learning new things and striving to improve myself.  I'm a conscientious person who works hard and pays attention to detail. Being flexible, I'm quick to pick up new skills and eager to learn from others. I also have lots of ideas and enthusiasm for the projects that I work on. I believe I will be able to value-add to the people I lead and serve.
 
-Besides programming and learning new technologies to work on, I play chess, watch online videos of cats, read, and watch shows in leisure. I'm curious about how the universe work, how things that may seem unrelated can be very connected and have an interest in science and mathematics.
+My goal in life is to learn as much as possible so that I can teach and educate others about the wonders of the world, and solve real-world problems through computer programming and engineering. By the end of this year, I aim to learn and work on more projects related to mobile and game development, and learn more about business thinking.
 
-My goal in life is to learn as much as possible so that I can teach educate others about the wonders of the world, and to solve real-world problems through computer programming and engineering. By the end of this year, I aim to learn and to work on more projects related to mobile and game development, DevOps, lower-level programming languages, and also take part in hackathons.
-
-I'm aware of my strengths and weaknesses and able to build on my strengths. I often seek improvement in whatever I do and persevere to achieve my personal best. I can manage uncertainty and handle stressful situations with composure.
+I'm aware of my strengths and weaknesses and able to build on my strengths. I often seek improvement in whatever I do and persevere to achieve my personal best. I can manage uncertainty and handle stressful situations with composure. Besides volunteering, programming and learning new technologies to work on, I read, and watch cat videos and shows in my leisure. I'm curious about how the universe work, and how things that may seem unrelated can be very connected and have an interest in science and mathematics.
 
 Now that you know more about me, [let's connect so that I know more about you :)](#connect-with-me)
 
@@ -17,7 +15,6 @@ Now that you know more about me, [let's connect so that I know more about you :)
   - Expense tracker **(Coming soon)**
   - Fitness tracker **(Coming soon)**
   - Scroll more **(Coming soon)**
-  - [Discordlistology.com v2](https://discordlistology.com)
   - [Netflix Addictector v2](https://chrome.google.com/webstore/detail/netflix-addictector-%E2%80%93-net/loooaabonmaodiehbknmpmngbeklblne)
   - [Fei Yue Dashboard](https://github.com/FelixIsaac/fei-yue-food-fiesta)
 - 🌱 I’m currently learning **Three.js & WebGL**
