@@ -122,7 +122,8 @@ Sunday       150 commits    ████░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tick-ninja               31 mins             ████████████████████████░   99.05% 
+EduHopeSG                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 ```
 
@@ -131,7 +132,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 08:48:44 UTC
+ Last Updated on 04/11/2022 08:50:50 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
