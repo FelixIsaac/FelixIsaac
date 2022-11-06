@@ -81,13 +81,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2052%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 110 Contributions in the Year 2022
  > 
-> 📦 80.0 kB Used in GitHub's Storage 
+> 📦 80.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -132,7 +132,7 @@ EduHopeSG                0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 08:44:38 UTC
+ Last Updated on 06/11/2022 08:45:33 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
