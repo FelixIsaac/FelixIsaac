@@ -140,7 +140,7 @@ EduHopeSG                0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/tch1001/EduHopeSG/issues/4) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. ❗️ Closed issue [#4](https://github.com/tch1001/EduHopeSG/issues/4) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
