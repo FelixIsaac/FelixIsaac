@@ -140,7 +140,7 @@ EduHopeSG                0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/FelixIsaac/silver-forum/issues/1) in [FelixIsaac/silver-forum](https://github.com/FelixIsaac/silver-forum)
+1. ❗️ Opened issue [#4](https://github.com/tch1001/EduHopeSG/issues/4) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
