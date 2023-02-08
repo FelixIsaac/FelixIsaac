@@ -140,7 +140,7 @@ tick-ninja               0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/FelixIsaac/hillgrove_python_server/pull/6) in [FelixIsaac/hillgrove_python_server](https://github.com/FelixIsaac/hillgrove_python_server)
+1. 🗣 Commented on [#8](https://github.com/tch1001/EduHopeSG/issues/8) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
