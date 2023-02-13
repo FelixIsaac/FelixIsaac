@@ -141,7 +141,7 @@ pongmates                0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/tch1001/EduHopeSG/issues/10) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. 💪 Opened PR [#11](https://github.com/tch1001/EduHopeSG/pull/11) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
