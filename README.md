@@ -81,11 +81,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 316 Contributions in the Year 2023
+> 🏆 327 Contributions in the Year 2023
  > 
 > 📦 91.0 kB Used in GitHub's Storage 
  > 
@@ -98,9 +98,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning       78 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-🌆 Daytime      110 commits       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-🌃 Evening      158 commits       ███████░░░░░░░░░░░░░░░░░░   30.92 % 
+🌞 Morning       74 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+🌆 Daytime      116 commits       █████░░░░░░░░░░░░░░░░░░░░   22.70 % 
+🌃 Evening      156 commits       ███████░░░░░░░░░░░░░░░░░░   30.53 % 
 🌙 Night        165 commits       ████████░░░░░░░░░░░░░░░░░   32.29 % 
 
 ```
@@ -122,9 +122,9 @@ Sunday          89 commits       ████░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-EduHopeSG                23 hrs 16 mins      █████████████████████████   99.71 % 
-tick-ninja               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-pongmates                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+EduHopeSG                26 hrs 48 mins      █████████████████████████   99.65 % 
+tick-ninja               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+pongmates                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 snak                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 ```
@@ -134,7 +134,7 @@ snak                     0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2023 08:42:38 UTC
+ Last Updated on 15/02/2023 08:44:04 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
