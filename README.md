@@ -142,7 +142,7 @@ snak                     0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/tch1001/EduHopeSG/issues/8) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. ❗️ Closed issue [#1](https://github.com/tch1001/EduHopeSG/issues/1) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
