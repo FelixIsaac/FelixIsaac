@@ -120,8 +120,7 @@ Sunday                   204 commits         ███████░░░░�
 
 ```text
 🐱‍💻 Projects: 
-EduHopeSG                3 hrs 52 mins       █████████████████████████   98.97 % 
-pongmates                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+EduHopeSG                36 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -129,7 +128,7 @@ pongmates                2 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2023 08:38:05 UTC
+ Last Updated on 27/02/2023 08:41:54 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
