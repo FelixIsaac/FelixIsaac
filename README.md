@@ -138,7 +138,7 @@ snak                     0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/tch1001/EduHopeSG/pull/18) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. 🎉 Merged PR [#10](https://github.com/FelixIsaac/hillgrove_python_server/pull/10) in [FelixIsaac/hillgrove_python_server](https://github.com/FelixIsaac/hillgrove_python_server)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
