@@ -81,7 +81,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2043%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -120,10 +120,9 @@ Sunday                   3529 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-lin-lao-bei              2 hrs 21 mins       ████████████████░░░░░░░░░   62.32 % 
-EduHopeSG                1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
-pongmates                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-snak                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+lin-lao-bei              1 hr 28 mins        ████████████████░░░░░░░░░   63.00 % 
+EduHopeSG                51 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
+pongmates                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 **Timeline**
@@ -131,7 +130,7 @@ snak                     0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2023 08:36:42 UTC
+ Last Updated on 13/03/2023 08:40:22 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
