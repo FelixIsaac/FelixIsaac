@@ -136,7 +136,7 @@ EduHopeSG                3 hrs 43 mins       ███████████�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/tch1001/EduHopeSG/pull/20) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. 🎉 Merged PR [#11](https://github.com/FelixIsaac/hillgrove_python_server/pull/11) in [FelixIsaac/hillgrove_python_server](https://github.com/FelixIsaac/hillgrove_python_server)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
