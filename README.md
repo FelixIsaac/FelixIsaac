@@ -11,7 +11,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ##
 
 - 🔭 I’m currently working on ...
-  - Hooked **(Coming soon)**
+  - [EduHopeSG](https://github.com/tch1001/EduHopeSG) and [TickNinja](https://github.com/tch1001/tick-ninja)
+  - [Make Elderly Safe Again (MESA)](https://github.com/codeforsingapore)
+  - Hooked
   - Expense tracker **(Coming soon)**
   - Fitness tracker **(Coming soon)**
   - Scroll more **(Coming soon)**
