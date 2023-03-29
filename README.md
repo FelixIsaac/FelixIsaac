@@ -138,7 +138,7 @@ pongmates                1 min               ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/tch1001/EduHopeSG/issues/8) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. ❌ Closed PR [#15](https://github.com/FelixIsaac/chemical-balancer/pull/15) in [FelixIsaac/chemical-balancer](https://github.com/FelixIsaac/chemical-balancer)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
