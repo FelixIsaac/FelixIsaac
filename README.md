@@ -122,9 +122,7 @@ Sunday                   3562 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-WorkoutWizard            5 hrs 53 mins       █████████████████████████   99.35 % 
-EduHopeSG                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-tick-ninja               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -132,7 +130,7 @@ tick-ninja               0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2023 08:37:18 UTC
+ Last Updated on 13/04/2023 08:36:42 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
