@@ -138,7 +138,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/tch1001/EduHopeSG/issues/8) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. 🎉 Merged PR [#21](https://github.com/tch1001/EduHopeSG/pull/21) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
