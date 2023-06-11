@@ -140,7 +140,7 @@ WorkoutWizard            0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/tch1001/EduHopeSG/issues/23) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. 🗣 Commented on [#24](https://github.com/tch1001/EduHopeSG/issues/24) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
