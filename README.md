@@ -87,7 +87,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 **🐱 My GitHub Data** 
 
-> 📦 91.4 kB Used in GitHub's Storage 
+> 📦 91.5 kB Used in GitHub's Storage 
  > 
 > 🏆 463 Contributions in the Year 2023
  > 
@@ -122,8 +122,7 @@ Sunday                   3628 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-EduHopeSG                2 hrs 15 mins       █████████████████████████   99.94 % 
-tick-ninja               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+EduHopeSG                1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -131,7 +130,7 @@ tick-ninja               0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2023 08:36:06 UTC
+ Last Updated on 20/06/2023 08:36:29 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
