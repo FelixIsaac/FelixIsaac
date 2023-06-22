@@ -122,7 +122,7 @@ Sunday                   3628 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-EduHopeSG                45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -130,7 +130,7 @@ EduHopeSG                45 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2023 08:35:10 UTC
+ Last Updated on 22/06/2023 08:34:56 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
