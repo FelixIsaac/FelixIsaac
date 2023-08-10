@@ -139,7 +139,7 @@ EduHopeSG                3 mins              █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/tch1001/EduHopeSG/pull/24#issuecomment-1586171752) in [tch1001/EduHopeSG](https://github.com/tch1001/EduHopeSG)
+1. 🎉 Merged PR [#2](https://github.com/DelvinHo/WRO2023FutureEngineers-HexaVoid/pull/2) in [DelvinHo/WRO2023FutureEngineers-HexaVoid](https://github.com/DelvinHo/WRO2023FutureEngineers-HexaVoid)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
