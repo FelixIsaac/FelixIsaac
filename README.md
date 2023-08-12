@@ -83,7 +83,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -132,7 +132,7 @@ tick-ninja               2 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2023 08:35:12 UTC
+ Last Updated on 12/08/2023 08:34:45 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
