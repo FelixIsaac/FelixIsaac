@@ -122,9 +122,8 @@ Sunday                   3646 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-WRO2023FutureEngineers-He1 hr 22 mins        ███████████████████████░░   93.53 % 
-EduHopeSG                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-tick-ninja               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+WRO2023FutureEngineers-He12 mins             █████████████████████░░░░   82.58 % 
+tick-ninja               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
 ```
 
 **Timeline**
@@ -132,7 +131,7 @@ tick-ninja               2 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2023 08:35:00 UTC
+ Last Updated on 16/08/2023 08:35:04 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
