@@ -143,6 +143,7 @@ No Activity Tracked This Week
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2nd Team in ASEAN-China-India Youth Leadership Summit 2023](https://felixisaac.dev/posts/65256dfd5cfbf2000209d8ad)
 - [Updates on Discordlistology.com](https://felixisaac.dev/posts/5e89748a83f97c0386b2278c)
 - [Site security update](https://felixisaac.dev/posts/5e3a5da6143d6f2b0df9d9a1)
 - [First blog post](https://felixisaac.dev/posts/5e1c74cb23c9450b0174f2d9)
