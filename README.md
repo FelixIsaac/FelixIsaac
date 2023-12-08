@@ -136,7 +136,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DelvinHo/WRO2023FutureEngineers-HexaVoid/pull/2) in [DelvinHo/WRO2023FutureEngineers-HexaVoid](https://github.com/DelvinHo/WRO2023FutureEngineers-HexaVoid)
+1. ❗ Opened issue [#30277](https://github.com/microsoft/PowerToys/issues/30277) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
