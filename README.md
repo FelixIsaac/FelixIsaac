@@ -17,8 +17,6 @@ Now that you know more about me, [let's connect so that I know more about you :)
   - Expense tracker **(Coming soon)**
   - Fitness tracker **(Coming soon)**
   - Scroll more **(Coming soon)**
-  - [Netflix Addictector v2](https://chrome.google.com/webstore/detail/netflix-addictector-%E2%80%93-net/loooaabonmaodiehbknmpmngbeklblne)
-  - [Fei Yue Dashboard](https://github.com/FelixIsaac/fei-yue-food-fiesta)
 - 🌱 I’m currently learning **Three.js & WebGL**
 - 👯 I’m looking to collaborate on **anything as I'm trying to build my portfolio and skills**
 - 🤔 I’m looking for help with Web Graphic Design and UI design
@@ -151,18 +149,15 @@ No Activity Tracked This Week
 
 ## Connect with me
 <div align="center">
-<a href="https://twitter.com/felixisaacdev" target="_blank">
-<img src="https://img.shields.io/badge/felixisaacdev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="https://sg.linkedin.com/in/felixisaac" target="_blank">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/felixisaacdev" target="_blank">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-<a>
-<a href="https://stackoverflow.com/users/10927618/felix-isaac" taget="_blank">
-<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
+  <a href="https://sg.linkedin.com/in/felixisaac" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/felixisaacdev" target="_blank">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <a>
+  <a href="https://stackoverflow.com/users/10927618/felix-isaac" taget="_blank">
+  <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
 </div>
 
 <!-- Used https://github.com/Ileriayo/markdown-badges and https://simpleicons.org/ to generate badges -->
