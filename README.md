@@ -87,8 +87,6 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 📦 122.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -128,7 +126,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2024 08:35:17 UTC
+ Last Updated on 18/03/2024 08:35:38 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
