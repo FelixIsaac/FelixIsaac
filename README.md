@@ -87,6 +87,8 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 📦 122.4 kB Used in GitHub's Storage 
  > 
+> 🏆 5 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -96,7 +98,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2146 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌞 Morning                2147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 🌆 Daytime                4613 commits        ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
 🌃 Evening                7528 commits        ██████████░░░░░░░░░░░░░░░   38.97 % 
 🌙 Night                  5028 commits        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
@@ -104,9 +106,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Monday                   3088 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 Tuesday                  2300 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Wednesday                2286 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Wednesday                2286 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 Thursday                 2413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 Friday                   2469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 Saturday                 3092 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
@@ -126,7 +128,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2024 08:35:24 UTC
+ Last Updated on 20/05/2024 08:38:41 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
