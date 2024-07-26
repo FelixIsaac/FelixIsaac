@@ -81,6 +81,8 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2057%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 122.4 kB Used in GitHub's Storage 
@@ -126,7 +128,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2024 08:40:49 UTC
+ Last Updated on 26/07/2024 08:40:42 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
