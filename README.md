@@ -134,7 +134,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#30277](https://github.com/microsoft/PowerToys/issues/30277) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+1. 🗣 Commented on [#17](https://github.com/FelixIsaac/kopi-cats/issues/17#issuecomment-2428967458) in [FelixIsaac/kopi-cats](https://github.com/FelixIsaac/kopi-cats)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
