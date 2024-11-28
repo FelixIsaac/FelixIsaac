@@ -85,7 +85,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 **🐱 My GitHub Data** 
 
-> 📦 166.3 kB Used in GitHub's Storage 
+> 📦 166.4 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2024
  > 
@@ -128,7 +128,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2024 08:50:50 UTC
+ Last Updated on 28/11/2024 08:51:00 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
