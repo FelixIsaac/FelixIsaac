@@ -136,7 +136,7 @@ No Activity Tracked This Week
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/FelixIsaac/kopi-cats/issues/17#issuecomment-2428967458) in [FelixIsaac/kopi-cats](https://github.com/FelixIsaac/kopi-cats)
+1. ❗ Opened issue [#2307](https://github.com/winsiderss/systeminformer/issues/2307) in [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
