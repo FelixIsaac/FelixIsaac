@@ -134,7 +134,7 @@ bed-lab7-exercise-FelixIs0 secs              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2307](https://github.com/winsiderss/systeminformer/issues/2307) in [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)
+1. 🗣 Commented on [#365](https://github.com/lmstudio-ai/lmstudio-bug-tracker/issues/365#issuecomment-2638671612) in [lmstudio-ai/lmstudio-bug-tracker](https://github.com/lmstudio-ai/lmstudio-bug-tracker)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
