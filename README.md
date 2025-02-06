@@ -77,17 +77,17 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2033%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 166.4 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
+> 🏆 18 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -116,9 +116,9 @@ Sunday                   3748 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-bed-ca2-FelixIsaac       14 hrs 34 mins      █████████████████████████   99.77 % 
-EduHopeSG                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-bed-lab7-exercise-FelixIs0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+bed-ca2-FelixIsaac       21 hrs 6 mins       █████████████████████████   99.84 % 
+EduHopeSG                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+bed-lab7-exercise-FelixIs0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **Timeline**
@@ -126,7 +126,7 @@ bed-lab7-exercise-FelixIs0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 08:42:30 UTC
+ Last Updated on 06/02/2025 08:42:51 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
