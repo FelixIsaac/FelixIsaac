@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -87,9 +87,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -116,11 +116,11 @@ Sunday                   3755 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-bed-ca2-FelixIsaac       33 hrs 39 mins      ███████████████████░░░░░░   75.86 % 
-CA2_Assignment           8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-mcp-google-calendar      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Calendar-MCP-Server      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+bed-ca2-FelixIsaac       26 hrs 15 mins      ███████████████░░░░░░░░░░   59.45 % 
+CA2_Assignment           14 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   32.64 % 
+mcp-google-calendar      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+CA2_Time-series Forecasti57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Unknown Project          31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ Calendar-MCP-Server      3 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2025 08:45:02 UTC
+ Last Updated on 11/02/2025 08:44:58 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
