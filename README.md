@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,10 +116,10 @@ Sunday                   3755 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-CA2_Time-series Forecasti14 hrs 51 mins      █████████████░░░░░░░░░░░░   51.68 % 
-CA2_Assignment           13 hrs 12 mins      ███████████░░░░░░░░░░░░░░   45.90 % 
-school-aiml-ca1          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+CA2_Time-series Forecasti20 hrs 42 mins      ███████████████████░░░░░░   75.53 % 
+CA2_Assignment           6 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+school-aiml-ca1          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 **Timeline**
@@ -127,7 +127,7 @@ Unknown Project          15 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 08:39:39 UTC
+ Last Updated on 17/02/2025 08:44:04 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
