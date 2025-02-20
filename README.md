@@ -116,8 +116,8 @@ Sunday                   3755 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-CA2_Time-series Forecasti24 hrs 17 mins      █████████████████████████   99.61 % 
-school-aiml-ca1          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+CA2_Time-series Forecasti19 hrs 30 mins      █████████████████████████   99.51 % 
+school-aiml-ca1          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 **Timeline**
@@ -125,7 +125,7 @@ school-aiml-ca1          5 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 08:45:36 UTC
+ Last Updated on 20/02/2025 08:44:05 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
