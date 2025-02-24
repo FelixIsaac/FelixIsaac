@@ -133,7 +133,7 @@ school-aiml-ca1          5 mins              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/lmstudio-ai/lmstudio-bug-tracker/issues/365#issuecomment-2638671612) in [lmstudio-ai/lmstudio-bug-tracker](https://github.com/lmstudio-ai/lmstudio-bug-tracker)
+1. ❗ Opened issue [#60](https://github.com/ghosind/dvm/issues/60) in [ghosind/dvm](https://github.com/ghosind/dvm)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
