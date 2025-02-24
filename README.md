@@ -83,8 +83,6 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 📦 189.2 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -116,8 +114,8 @@ Sunday                   3755 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-CA2_Time-series Forecasti17 hrs 21 mins      █████████████████████████   99.45 % 
-school-aiml-ca1          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+CA2_Time-series Forecasti11 hrs 30 mins      █████████████████████████   99.22 % 
+school-aiml-ca1          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 **Timeline**
@@ -125,7 +123,7 @@ school-aiml-ca1          5 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2025 08:40:33 UTC
+ Last Updated on 24/02/2025 08:45:02 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
