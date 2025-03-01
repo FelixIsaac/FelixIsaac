@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2028%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,7 +116,7 @@ Sunday                   3755 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-noverseapp               10 hrs 50 mins      █████████████████████████   100.00 % 
+noverseapp               12 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -124,7 +124,7 @@ noverseapp               10 hrs 50 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2025 08:43:36 UTC
+ Last Updated on 01/03/2025 08:42:18 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
