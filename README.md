@@ -77,13 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2015%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.3 kB Used in GitHub's Storage 
  > 
-> 🏆 159 Contributions in the Year 2025
+> 🏆 161 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -94,7 +94,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2212 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+🌞 Morning                2214 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 🌆 Daytime                4731 commits        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
 🌃 Evening                7665 commits        ██████████░░░░░░░░░░░░░░░   38.90 % 
 🌙 Night                  5095 commits        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
@@ -104,10 +104,10 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ```text
 Monday                   3145 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 Tuesday                  2340 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Wednesday                2336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Thursday                 2453 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Wednesday                2336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Thursday                 2455 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 Friday                   2477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 3185 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Saturday                 3185 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 Sunday                   3767 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
 ```
 
@@ -116,8 +116,8 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-noverseapp               16 hrs 57 mins      ████████████████████████░   94.33 % 
-mixtral-OCR-testing      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+noverseapp               13 hrs 4 mins       ███████████████████████░░   92.76 % 
+mixtral-OCR-testing      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 ```
 
 **Timeline**
@@ -125,7 +125,7 @@ mixtral-OCR-testing      1 hr 1 min          █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 08:46:08 UTC
+ Last Updated on 13/03/2025 08:46:28 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
