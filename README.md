@@ -116,8 +116,8 @@ Sunday                   3799 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillv2-shuttle-bus       6 hrs 20 mins       █████████████████████░░░░   84.34 % 
-noverseapp               1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+hillv2-shuttle-bus       6 hrs 20 mins       █████████████████████████   99.78 % 
+noverseapp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 **Timeline**
@@ -125,7 +125,7 @@ noverseapp               1 hr 10 mins        ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2025 08:47:50 UTC
+ Last Updated on 24/04/2025 08:47:49 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
