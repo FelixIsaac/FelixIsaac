@@ -77,13 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2021%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.9 kB Used in GitHub's Storage 
  > 
-> 🏆 215 Contributions in the Year 2025
+> 🏆 216 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -126,7 +126,7 @@ testing                  3 mins              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 10:25:04 UTC
+ Last Updated on 29/04/2025 08:48:13 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
