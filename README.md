@@ -133,7 +133,7 @@ CrowdFunding-Dapp        2 mins              █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/ghosind/dvm/issues/60) in [ghosind/dvm](https://github.com/ghosind/dvm)
+1. ❗ Opened issue [#15](https://github.com/amitness/colab-connect/issues/15) in [amitness/colab-connect](https://github.com/amitness/colab-connect)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
