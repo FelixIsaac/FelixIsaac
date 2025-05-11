@@ -116,8 +116,9 @@ Sunday                   3845 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-content                  49 mins             ██████████████░░░░░░░░░░░   55.87 % 
-Unknown Project          39 mins             ███████████░░░░░░░░░░░░░░   44.13 % 
+hillv2-shuttle-bus       2 hrs 55 mins       █████████████████░░░░░░░░   67.40 % 
+content                  49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Unknown Project          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 ```
 
 **Timeline**
@@ -125,7 +126,7 @@ Unknown Project          39 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 08:43:32 UTC
+ Last Updated on 11/05/2025 08:45:41 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
