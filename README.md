@@ -81,7 +81,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 **🐱 My GitHub Data** 
 
-> 📦 190.2 kB Used in GitHub's Storage 
+> 📦 190.3 kB Used in GitHub's Storage 
  > 
 > 🏆 237 Contributions in the Year 2025
  > 
@@ -116,9 +116,8 @@ Sunday                   3867 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillv2-shuttle-bus       2 hrs 55 mins       ██████████████████░░░░░░░   73.71 % 
-content                  49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+hillv2-shuttle-bus       2 hrs 55 mins       ████████████████████████░   94.90 % 
+content                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 
 **Timeline**
@@ -126,7 +125,7 @@ Unknown Project          12 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 08:48:29 UTC
+ Last Updated on 15/05/2025 08:48:22 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
