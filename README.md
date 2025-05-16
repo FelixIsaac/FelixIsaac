@@ -116,8 +116,7 @@ Sunday                   3867 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillv2-shuttle-bus       2 hrs 55 mins       ████████████████████████░   94.90 % 
-content                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+hillv2-shuttle-bus       2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -125,7 +124,7 @@ content                  9 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2025 08:48:22 UTC
+ Last Updated on 16/05/2025 08:48:15 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
