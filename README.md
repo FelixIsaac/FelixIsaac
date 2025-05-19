@@ -83,7 +83,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 📦 190.3 kB Used in GitHub's Storage 
  > 
-> 🏆 237 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -124,7 +124,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 08:43:46 UTC
+ Last Updated on 19/05/2025 08:49:54 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
