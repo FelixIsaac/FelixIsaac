@@ -77,8 +77,6 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2010%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 190.3 kB Used in GitHub's Storage 
@@ -116,7 +114,7 @@ Sunday                   3867 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -124,7 +122,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 08:50:54 UTC
+ Last Updated on 21/05/2025 08:48:47 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
