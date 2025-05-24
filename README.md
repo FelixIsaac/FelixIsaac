@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,8 +116,9 @@ Sunday                   3867 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-lintscribe               1 hr 50 mins        ██████████████░░░░░░░░░░░   54.71 % 
-Unknown Project          1 hr 31 mins        ███████████░░░░░░░░░░░░░░   45.29 % 
+lintscribe               1 hr 50 mins        ███████████░░░░░░░░░░░░░░   45.20 % 
+Unknown Project          1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   37.41 % 
+content                  42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 ```
 
 **Timeline**
@@ -125,7 +126,7 @@ Unknown Project          1 hr 31 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2025 08:49:25 UTC
+ Last Updated on 24/05/2025 08:43:56 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
