@@ -77,11 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 190.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 237 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -114,10 +116,11 @@ Sunday                   3867 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-content                  4 hrs 35 mins       █████████████░░░░░░░░░░░░   51.10 % 
-Unknown Project          2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-lintscribe               1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Vegie_CA                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+content                  13 hrs 3 mins       ██████████████████░░░░░░░   70.89 % 
+Unknown Project          2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+lintscribe               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Vegie_CA                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+DELE                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 **Timeline**
@@ -125,7 +128,7 @@ Vegie_CA                 30 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2025 08:45:35 UTC
+ Last Updated on 27/05/2025 08:48:09 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
