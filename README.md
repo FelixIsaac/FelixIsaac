@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2038%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,10 +116,10 @@ Sunday                   3867 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-content                  13 hrs 3 mins       ██████████████████░░░░░░░   70.89 % 
-Unknown Project          2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-lintscribe               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Vegie_CA                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+content                  13 hrs 3 mins       ██████████████████░░░░░░░   71.02 % 
+Unknown Project          2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+lintscribe               1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Vegie_CA                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 DELE                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
@@ -128,7 +128,7 @@ DELE                     24 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 08:48:09 UTC
+ Last Updated on 28/05/2025 08:49:05 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
