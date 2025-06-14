@@ -116,7 +116,8 @@ Sunday                   3922 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-youngasians.org          16 hrs 17 mins      █████████████████████████   100.00 % 
+youngasians.org          12 hrs 52 mins      ████████████████████████░   97.66 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 **Timeline**
@@ -124,7 +125,7 @@ youngasians.org          16 hrs 17 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 08:50:42 UTC
+ Last Updated on 14/06/2025 08:45:16 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
