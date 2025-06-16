@@ -77,13 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 314.1 kB Used in GitHub's Storage 
  > 
-> 🏆 301 Contributions in the Year 2025
+> 🏆 302 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,9 +116,10 @@ Sunday                   3922 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-youngasians.org          7 hrs 3 mins        ██████████████████░░░░░░░   73.96 % 
-gebiz_scrapper           2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+youngasians.org          3 hrs 7 mins        █████████████░░░░░░░░░░░░   52.08 % 
+gebiz_scrapper           2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.32 % 
+code4sg                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 ```
 
 **Timeline**
@@ -126,7 +127,7 @@ Unknown Project          18 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2025 08:45:03 UTC
+ Last Updated on 16/06/2025 08:51:08 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
