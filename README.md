@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   3933 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-VideottoTestingSite      8 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.17 % 
-lintbuild                2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-lintseek_gadk            2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Videotto                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-scrape_logiscool_testing_28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+VideottoTestingSite      8 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.56 % 
+lintbuild                2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+lintseek_gadk            2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Videotto                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+scrape_logiscool_testing_28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ scrape_logiscool_testing_28 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 08:45:54 UTC
+ Last Updated on 29/06/2025 08:46:13 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
