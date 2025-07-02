@@ -77,9 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2051%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 313.8 kB Used in GitHub's Storage 
+> 📦 314.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 315 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -112,11 +116,11 @@ Sunday                   3949 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-VideottoTestingSite      4 hrs 11 mins       ████████████░░░░░░░░░░░░░   48.27 % 
-lintbuild                2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
-Videotto                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-scrape_logiscool_testing_28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-youngasians.org          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+lintbuild                2 hrs 51 mins       ███████████████░░░░░░░░░░   59.47 % 
+Videotto                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+scrape_logiscool_testing_28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+lintseek_gadk            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+RMT-backend              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 
 **Timeline**
@@ -124,7 +128,7 @@ youngasians.org          6 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 08:51:28 UTC
+ Last Updated on 02/07/2025 08:51:08 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
