@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   3949 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-lintbuild                2 hrs 51 mins       ███████████████░░░░░░░░░░   59.47 % 
-Videotto                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-scrape_logiscool_testing_28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-lintseek_gadk            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-RMT-backend              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+lintbuild                2 hrs 51 mins       █████████████████░░░░░░░░   66.85 % 
+scrape_logiscool_testing_28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Videotto                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+RMT-backend              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+lintseek_gadk            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ RMT-backend              7 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 08:51:08 UTC
+ Last Updated on 03/07/2025 08:49:39 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
