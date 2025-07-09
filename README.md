@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,9 @@ Sunday                   3953 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Videotto                 5 hrs 3 mins        ███████████████████████░░   91.46 % 
-RMT-backend              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-lintseek_gadk            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-guac-next                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Videotto                 5 hrs 4 mins        ████████████████████████░   96.71 % 
+RMT-backend              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+guac-next                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 **Timeline**
@@ -128,7 +126,7 @@ guac-next                0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2025 08:51:12 UTC
+ Last Updated on 09/07/2025 08:52:38 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
