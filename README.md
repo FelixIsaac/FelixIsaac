@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2024%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,9 +116,8 @@ Sunday                   3953 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Videotto                 5 hrs 4 mins        ████████████████████████░   96.71 % 
-RMT-backend              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-guac-next                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Videotto                 5 hrs 4 mins        █████████████████████████   99.95 % 
+guac-next                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **Timeline**
@@ -126,7 +125,7 @@ guac-next                1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 08:52:38 UTC
+ Last Updated on 10/07/2025 08:51:13 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
