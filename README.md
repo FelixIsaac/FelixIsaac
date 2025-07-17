@@ -77,11 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2059%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 314.8 kB Used in GitHub's Storage 
+> 📦 315.4 kB Used in GitHub's Storage 
  > 
 > 🏆 317 Contributions in the Year 2025
  > 
@@ -116,9 +116,10 @@ Sunday                   3906 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-RMT-backend              2 hrs 37 mins       ██████████████████░░░░░░░   73.31 % 
-guac-next                56 mins             ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-the-rescue-tribe         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+RMT-backend              4 hrs 47 mins       ██████████████████░░░░░░░   73.52 % 
+guac-next                56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+youngasians.org          46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+the-rescue-tribe         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 **Timeline**
@@ -126,7 +127,7 @@ the-rescue-tribe         1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 08:53:08 UTC
+ Last Updated on 17/07/2025 08:52:41 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
