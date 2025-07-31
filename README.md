@@ -77,13 +77,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2059%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 316.1 kB Used in GitHub's Storage 
- > 
-> 🏆 320 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,10 +112,9 @@ Sunday                   3980 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-RMT-backend              6 hrs 10 mins       ████████████████████████░   97.03 % 
-the-rescue-tribe         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-youngasians.org          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-guac-next                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+RMT-backend              7 hrs 39 mins       ████████████████████████░   97.88 % 
+the-rescue-tribe         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+guac-next                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **Timeline**
@@ -127,7 +122,7 @@ guac-next                0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 08:55:23 UTC
+ Last Updated on 31/07/2025 08:54:57 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
