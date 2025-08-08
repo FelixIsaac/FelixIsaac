@@ -81,7 +81,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 **🐱 My GitHub Data** 
 
-> 📦 314.7 kB Used in GitHub's Storage 
+> 📦 315.0 kB Used in GitHub's Storage 
  > 
 > 🏆 352 Contributions in the Year 2025
  > 
@@ -128,7 +128,7 @@ the-rescue-tribe         0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 08:56:02 UTC
+ Last Updated on 08/08/2025 08:54:45 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
