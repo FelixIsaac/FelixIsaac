@@ -77,13 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 315.1 kB Used in GitHub's Storage 
  > 
-> 🏆 352 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,11 +116,11 @@ Sunday                   3945 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-eaglesinteract           13 hrs 59 mins      ████████████████████████░   97.48 % 
-RMT-backend              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-guac-next                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-the-rescue-tribe         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-youngasians.org          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+eaglesinteract           5 hrs 58 mins       ████████████████████████░   96.26 % 
+RMT-backend              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+guac-next                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+the-rescue-tribe         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ youngasians.org          0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2025 08:48:45 UTC
+ Last Updated on 11/08/2025 08:54:49 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
