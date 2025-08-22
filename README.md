@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4051 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-yourapp                  20 hrs 28 mins      ███████████████████████░░   90.02 % 
-guac-next                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Videotto                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Unknown Project          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-RMT-backend              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+yourapp                  22 hrs 48 mins      ███████████████████████░░   93.74 % 
+guac-next                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+RMT-backend              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Videotto                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+mindful-browsing         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ RMT-backend              14 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2025 08:49:04 UTC
+ Last Updated on 22/08/2025 08:48:56 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
