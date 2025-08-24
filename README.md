@@ -83,7 +83,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 📦 316.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 358 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,7 +116,7 @@ Sunday                   4051 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-yourapp                  18 hrs 21 mins      ███████████████████████░░   93.50 % 
+yourapp                  18 hrs 21 mins      ███████████████████████░░   93.56 % 
 guac-next                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 RMT-backend              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 mindful-browsing         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
@@ -128,7 +128,7 @@ Unknown Project          3 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 08:45:14 UTC
+ Last Updated on 24/08/2025 08:44:32 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
