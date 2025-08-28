@@ -116,10 +116,7 @@ Sunday                   4081 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-yourapp                  9 hrs 20 mins       ███████████████████████░░   90.22 % 
-guac-next                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-RMT-backend              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+yourapp                  6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -127,7 +124,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 08:48:12 UTC
+ Last Updated on 28/08/2025 08:50:28 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
