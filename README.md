@@ -77,11 +77,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2035%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 321.3 kB Used in GitHub's Storage 
+> 📦 321.0 kB Used in GitHub's Storage 
  > 
 > 🏆 404 Contributions in the Year 2025
  > 
@@ -91,42 +89,12 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-🌆 Daytime                5614 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-🌃 Evening                8639 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
-🌙 Night                  5643 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   3568 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Tuesday                  2890 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Wednesday                2742 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Thursday                 2653 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Friday                   2794 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 3480 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Sunday                   4106 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-yourapp                  11 hrs              ████████████████████░░░░░   79.79 % 
-theenglishlab            2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 08:49:01 UTC
+ Last Updated on 03/10/2025 08:47:33 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
