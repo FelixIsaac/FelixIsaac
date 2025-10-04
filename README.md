@@ -77,9 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2059%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 321.0 kB Used in GitHub's Storage 
+> 📦 321.6 kB Used in GitHub's Storage 
  > 
 > 🏆 404 Contributions in the Year 2025
  > 
@@ -89,12 +91,41 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+🌆 Daytime                5658 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌃 Evening                8669 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌙 Night                  5670 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   3587 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Tuesday                  2913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Wednesday                2762 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Thursday                 2667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   2801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Saturday                 3485 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Sunday                   4123 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+yourapp                  17 hrs 24 mins      █████████████████████████   99.54 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 08:47:33 UTC
+ Last Updated on 04/10/2025 08:44:35 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
