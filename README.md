@@ -81,9 +81,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 **🐱 My GitHub Data** 
 
-> 📦 320.6 kB Used in GitHub's Storage 
+> 📦 320.7 kB Used in GitHub's Storage 
  > 
-> 🏆 406 Contributions in the Year 2025
+> 🏆 407 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,8 +116,8 @@ Sunday                   4275 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-yourapp                  8 hrs 27 mins       ██████████████████░░░░░░░   73.51 % 
-html                     3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+yourapp                  8 hrs 8 mins        ██████████████████░░░░░░░   72.76 % 
+html                     3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
 ```
 
 **Timeline**
@@ -125,7 +125,7 @@ html                     3 hrs 2 mins        ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2025 08:50:35 UTC
+ Last Updated on 18/10/2025 08:46:50 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
