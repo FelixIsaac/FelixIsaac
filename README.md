@@ -77,11 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 320.7 kB Used in GitHub's Storage 
+> 📦 320.8 kB Used in GitHub's Storage 
  > 
 > 🏆 407 Contributions in the Year 2025
  > 
@@ -116,10 +116,10 @@ Sunday                   4275 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-html                     3 hrs 20 mins       █████████████░░░░░░░░░░░░   51.38 % 
-yourapp                  1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   30.52 % 
-otto.ai                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+otto.ai                  2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.35 % 
+html                     1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.40 % 
+yourapp                  59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
 **Timeline**
@@ -127,7 +127,7 @@ Unknown Project          11 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2025 08:52:51 UTC
+ Last Updated on 22/10/2025 08:55:46 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
