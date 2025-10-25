@@ -81,9 +81,9 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 **🐱 My GitHub Data** 
 
-> 📦 320.8 kB Used in GitHub's Storage 
+> 📦 320.9 kB Used in GitHub's Storage 
  > 
-> 🏆 407 Contributions in the Year 2025
+> 🏆 408 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,10 +116,11 @@ Sunday                   4275 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-otto.ai                  2 hrs 3 mins        ███████████████░░░░░░░░░░   58.32 % 
-yourapp                  59 mins             ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-html                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+otto.ai                  2 hrs 3 mins        █████████████░░░░░░░░░░░░   52.20 % 
+yourapp                  59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+html                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+speaker-tracking         15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 ```
 
 **Timeline**
@@ -127,7 +128,7 @@ Unknown Project          11 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2025 08:50:51 UTC
+ Last Updated on 25/10/2025 08:46:05 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
