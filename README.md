@@ -77,13 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2024%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 320.9 kB Used in GitHub's Storage 
  > 
-> 🏆 415 Contributions in the Year 2025
+> 🏆 417 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,11 +116,11 @@ Sunday                   4279 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-speaker-tracking         3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
-videotto-switch-pipeline 2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-otto.ai                  1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-ffmpeg-performance       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+videotto-switch-pipeline 7 hrs 41 mins       █████████████░░░░░░░░░░░░   50.09 % 
+speaker-tracking         3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+ffmpeg-performance       1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+otto.ai                  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+yourapp                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ Unknown Project          11 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2025 08:46:00 UTC
+ Last Updated on 27/10/2025 08:52:08 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
