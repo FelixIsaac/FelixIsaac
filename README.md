@@ -77,13 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2044%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 320.9 kB Used in GitHub's Storage 
  > 
-> 🏆 463 Contributions in the Year 2025
+> 🏆 464 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,11 +114,11 @@ Sunday                   4280 commits        █████░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-videotto-switch-pipeline 40 hrs 3 mins       █████████████████░░░░░░░░   67.66 % 
-legacy-speaker-tracking  7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-speaker-tracking         7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-ffmpeg-performance       2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-yourapp                  1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+videotto-switch-pipeline 42 hrs 58 mins      █████████████████░░░░░░░░   69.60 % 
+legacy-speaker-tracking  7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+speaker-tracking         6 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+ffmpeg-performance       2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+yourapp                  1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 **Timeline**
@@ -128,7 +126,7 @@ yourapp                  1 hr 1 min          ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 08:50:36 UTC
+ Last Updated on 01/11/2025 08:46:49 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
