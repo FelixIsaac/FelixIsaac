@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4245 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-videotto-switch-pipeline 14 hrs 30 mins      ██████████████████░░░░░░░   72.70 % 
-videotto-editor          2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-otto.ai                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-legacy-speaker-tracking  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-opt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+videotto-switch-pipeline 16 hrs 31 mins      ███████████████████░░░░░░   74.93 % 
+videotto-editor          2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+otto.ai                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+legacy-speaker-tracking  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+yourapp                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ opt                      0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 08:48:09 UTC
+ Last Updated on 10/11/2025 08:53:29 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
