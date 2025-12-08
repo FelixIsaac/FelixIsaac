@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4341 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-scraping-aha-facebook    3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.72 % 
-otto.ai                  2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
-hillv2-shuttle-bus       2 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-eaglesinteract           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-ffmpeg.wasm              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+scraping-aha-facebook    3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.64 % 
+otto.ai                  3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.18 % 
+hillv2-shuttle-bus       2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+eaglesinteract           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+ffmpeg.wasm              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ ffmpeg.wasm              0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 08:49:25 UTC
+ Last Updated on 08/12/2025 08:58:00 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
