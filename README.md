@@ -136,7 +136,7 @@ Unknown Project          25 mins             █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/amitness/colab-connect/issues/15) in [amitness/colab-connect](https://github.com/amitness/colab-connect)
+1.  Labeled issue [#2](https://github.com/FelixIsaac/claude-code-sync/issues/2) in [FelixIsaac/claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
