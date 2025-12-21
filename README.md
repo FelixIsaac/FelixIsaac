@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   3574 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-otto.ai                  14 hrs 43 mins      ████████████████████░░░░░   79.75 % 
-videotto-editor          1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-videotto-switch-pipeline 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-felixisaac.dev-1         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+otto.ai                  11 hrs 7 mins       █████████████████░░░░░░░░   69.40 % 
+videotto-editor          1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+claude-code-sync         1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+videotto-switch-pipeline 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+felixisaac.dev-1         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ Unknown Project          25 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 08:51:00 UTC
+ Last Updated on 21/12/2025 08:53:39 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
