@@ -136,7 +136,7 @@ felixisaac.dev-1         59 mins             ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2](https://github.com/FelixIsaac/claude-code-sync/issues/2) in [FelixIsaac/claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)
+1. ❗ Opened issue [#1](https://github.com/FelixIsaac/whatsapp-mcp-extended/issues/1) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
