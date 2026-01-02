@@ -136,7 +136,7 @@ opt                      43 mins             ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/FelixIsaac/whatsapp-mcp-extended/issues/1) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
+1. ❗ Opened issue [#146](https://github.com/lharries/whatsapp-mcp/issues/146) in [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
