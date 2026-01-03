@@ -77,13 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2021%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 347.6 kB Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2026
+> 🏆 29 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,44 +89,12 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2401 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-🌆 Daytime                6745 commits        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-🌃 Evening                8245 commits        █████████░░░░░░░░░░░░░░░░   36.37 % 
-🌙 Night                  5279 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3514 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Tuesday                  4028 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Wednesday                3014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Thursday                 2506 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Friday                   2638 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Saturday                 3171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Sunday                   3799 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-videotto-editor          2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-otto.ai                  2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-videotto-switch-pipeline 2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-media-grab               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-opt                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 08:58:51 UTC
+ Last Updated on 03/01/2026 08:55:38 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
