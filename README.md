@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C083%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   3898 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillv2-shuttle-bus       14 hrs 42 mins      ███████████████████░░░░░░   77.09 % 
-otto.ai                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-mulligan                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-limfe                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-videotto-repos           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+hillv2-shuttle-bus       14 hrs 45 mins      ████████████████████░░░░░   81.68 % 
+otto.ai                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+limfe                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+videotto-repos           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+mulligan                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ videotto-repos           12 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2026 09:04:24 UTC
+ Last Updated on 29/01/2026 09:11:06 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
