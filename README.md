@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   3952 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillv2-shuttle-bus       21 hrs 20 mins      ██████████████████████░░░   87.15 % 
-p3-fractions             1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+hillv2-shuttle-bus       21 hrs 27 mins      ██████████████████████░░░   87.21 % 
+p3-fractions             1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 DiscordChatExporter      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 otto.ai                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-limfe                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+limfe                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ limfe                    20 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 09:14:41 UTC
+ Last Updated on 03/02/2026 09:10:16 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
