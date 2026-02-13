@@ -136,7 +136,7 @@ limfe                    1 hr 5 mins         █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18311](https://github.com/anthropics/claude-code/issues/18311#issuecomment-3866016533) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🗣 Commented on [#3](https://github.com/FelixIsaac/whatsapp-mcp-extended/issues/3#issuecomment-3895096937) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
