@@ -136,7 +136,7 @@ mulligan                 1 min               ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/FelixIsaac/whatsapp-mcp-extended/issues/3#issuecomment-3895096937) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
+1. ❗ Opened issue [#16](https://github.com/FelixIsaac/whatsapp-mcp-extended/issues/16) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
