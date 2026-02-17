@@ -136,7 +136,7 @@ mulligan                 1 min               ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/FelixIsaac/whatsapp-mcp-extended/issues/16) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
+1. 🔒 Closed issue [#26237](https://github.com/anthropics/claude-code/issues/26237) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
