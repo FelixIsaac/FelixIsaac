@@ -135,7 +135,7 @@ mulligan                 2 mins              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26237](https://github.com/anthropics/claude-code/issues/26237) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🗣 Commented on [#18311](https://github.com/anthropics/claude-code/issues/18311#issuecomment-3939317483) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
