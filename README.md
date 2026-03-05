@@ -77,11 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 527.5 kB Used in GitHub's Storage 
+> 📦 527.6 kB Used in GitHub's Storage 
  > 
 > 🏆 504 Contributions in the Year 2026
  > 
@@ -116,10 +116,8 @@ Sunday                   4226 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillv2-shuttle-bus       34 hrs 36 mins      ████████████████████████░   97.23 % 
-limfe                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-01 Valen Tan             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-whatsapp-mcp-extended    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+hillv2-shuttle-bus       29 hrs 1 min        █████████████████████████   99.53 % 
+01 Valen Tan             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 **Timeline**
@@ -127,7 +125,7 @@ whatsapp-mcp-extended    1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2026 09:11:13 UTC
+ Last Updated on 05/03/2026 09:14:51 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
