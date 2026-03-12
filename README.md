@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C258%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C267%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,9 +116,11 @@ Sunday                   4226 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillv2-shuttle-bus       12 hrs 18 mins      █████████████████████░░░░   84.71 % 
-new-project              1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-05 Adulting              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+hillv2-shuttle-bus       13 hrs 39 mins      ██████████████████░░░░░░░   71.90 % 
+Testing Life OS          2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+new-project              1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+05 Adulting              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Archive of Recorder Pro  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 
 **Timeline**
@@ -126,7 +128,7 @@ new-project              1 hr 59 mins        ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2026 09:17:11 UTC
+ Last Updated on 12/03/2026 09:15:39 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
