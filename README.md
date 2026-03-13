@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C267%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4226 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-hillv2-shuttle-bus       13 hrs 39 mins      ██████████████████░░░░░░░   71.90 % 
-Testing Life OS          2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-new-project              1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-05 Adulting              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Archive of Recorder Pro  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+hillv2-shuttle-bus       14 hrs 3 mins       ██████████████░░░░░░░░░░░   55.08 % 
+2025 Physical journal    3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Testing Life OS          3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+new-project              1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Archive of Recorder Pro  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ Archive of Recorder Pro  29 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 09:15:39 UTC
+ Last Updated on 13/03/2026 09:15:14 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
