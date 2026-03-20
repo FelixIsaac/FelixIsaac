@@ -77,11 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C310%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C313%20hrs%2038%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 556.4 kB Used in GitHub's Storage 
+> 📦 556.5 kB Used in GitHub's Storage 
  > 
 > 🏆 524 Contributions in the Year 2026
  > 
@@ -116,11 +116,11 @@ Sunday                   4300 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Testing Life OS          18 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.79 % 
-2025 Physical journal    9 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-hillv2-shuttle-bus       4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-WhatsApp Chats           1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-limfe                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Testing Life OS          21 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.36 % 
+2025 Physical journal    6 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+hillv2-shuttle-bus       4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+limfe                    3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+WhatsApp Chats           1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ limfe                    1 hr 42 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2026 09:19:49 UTC
+ Last Updated on 20/03/2026 09:13:47 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
