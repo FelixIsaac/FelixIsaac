@@ -77,11 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C367%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 557.6 kB Used in GitHub's Storage 
+> 📦 558.2 kB Used in GitHub's Storage 
  > 
 > 🏆 534 Contributions in the Year 2026
  > 
@@ -94,21 +94,21 @@ Now that you know more about me, [let's connect so that I know more about you :)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2817 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-🌆 Daytime                8515 commits        ████████░░░░░░░░░░░░░░░░░   31.40 % 
-🌃 Evening                9481 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
-🌙 Night                  6303 commits        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+🌞 Morning                2880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+🌆 Daytime                8784 commits        ████████░░░░░░░░░░░░░░░░░   31.72 % 
+🌃 Evening                9636 commits        █████████░░░░░░░░░░░░░░░░   34.80 % 
+🌙 Night                  6388 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   4024 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Tuesday                  4313 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Wednesday                3558 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Thursday                 3298 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Friday                   3864 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 3738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Sunday                   4321 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Monday                   4076 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Tuesday                  4369 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Wednesday                3628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 3386 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Friday                   4009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Saturday                 3828 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Sunday                   4392 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 ```
 
 
@@ -116,11 +116,11 @@ Sunday                   4321 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Testing Life OS          44 hrs 2 mins       ██████████████████░░░░░░░   73.66 % 
-limfe                    3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Unknown Project          3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-hillv2-shuttle-bus       3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Discord                  1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Testing Life OS          40 hrs 36 mins      ████████████████████░░░░░   78.01 % 
+Unknown Project          2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+hillv2-shuttle-bus       2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Discord                  1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+apple-ponder             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ Discord                  1 hr 46 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 09:41:34 UTC
+ Last Updated on 27/03/2026 09:21:40 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
