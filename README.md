@@ -77,11 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2048%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 558.2 kB Used in GitHub's Storage 
+> 📦 558.3 kB Used in GitHub's Storage 
  > 
 > 🏆 534 Contributions in the Year 2026
  > 
@@ -116,11 +116,11 @@ Sunday                   4392 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Testing Life OS          40 hrs 36 mins      ████████████████████░░░░░   78.01 % 
-Unknown Project          2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-hillv2-shuttle-bus       2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Discord                  1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-apple-ponder             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Testing Life OS          35 hrs 45 mins      ███████████████████░░░░░░   74.74 % 
+Unknown Project          2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+hillv2-shuttle-bus       2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Discord                  1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+lecto                    1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ apple-ponder             1 hr 28 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 09:21:40 UTC
+ Last Updated on 28/03/2026 09:11:15 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
