@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C377%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C380%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4444 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Testing Life OS          19 hrs 14 mins      ████████████████████░░░░░   79.82 % 
-lecto                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Unknown Project          1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-hillv2-shuttle-bus       42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-01 Valen Tan             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Testing Life OS          17 hrs 22 mins      ████████████████████░░░░░   79.81 % 
+lecto                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Unknown Project          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+hillv2-shuttle-bus       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+01 Valen Tan             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ hillv2-shuttle-bus       42 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2026 10:02:36 UTC
+ Last Updated on 31/03/2026 09:48:04 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
