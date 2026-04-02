@@ -136,7 +136,7 @@ hillv2-shuttle-bus       41 mins             █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18311](https://github.com/anthropics/claude-code/issues/18311#issuecomment-3939317483) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🗣 Commented on [#7705](https://github.com/wezterm/wezterm/issues/7705#issuecomment-4177613567) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
