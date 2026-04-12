@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C428%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C431%20hrs%2038%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4139 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Testing Life OS          22 hrs 17 mins      █████████████████░░░░░░░░   69.92 % 
-scripts                  4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-limfe                    4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Testing Life OS          21 hrs 1 min        █████████████████░░░░░░░░   66.79 % 
+limfe                    4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+scripts                  4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 otto.ai                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-v4                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+v4                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ v4                       15 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2026 09:17:54 UTC
+ Last Updated on 12/04/2026 09:18:23 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
