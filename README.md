@@ -77,11 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C451%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C466%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 600.1 kB Used in GitHub's Storage 
+> 📦 600.2 kB Used in GitHub's Storage 
  > 
 > 🏆 554 Contributions in the Year 2026
  > 
@@ -116,11 +116,11 @@ Sunday                   4139 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-scripts                  35 hrs 51 mins      ██████████████████░░░░░░░   70.05 % 
-Testing Life OS          10 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-limfe                    4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-otto.ai                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-whatsapp-mcp             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+scripts                  59 hrs 27 mins      █████████████████████░░░░   85.00 % 
+Testing Life OS          5 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+limfe                    4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+otto.ai                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+hillv2-shuttle-bus       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ whatsapp-mcp             5 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2026 10:07:37 UTC
+ Last Updated on 15/04/2026 10:06:05 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
