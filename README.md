@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C466%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C490%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4139 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-scripts                  59 hrs 27 mins      █████████████████████░░░░   85.00 % 
-Testing Life OS          5 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-limfe                    4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-otto.ai                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-hillv2-shuttle-bus       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+scripts                  67 hrs 19 mins      ██████████████████████░░░   86.79 % 
+Testing Life OS          5 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+limfe                    4 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+otto.ai                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+hillv2-shuttle-bus       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ hillv2-shuttle-bus       6 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2026 10:06:05 UTC
+ Last Updated on 16/04/2026 10:04:46 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
