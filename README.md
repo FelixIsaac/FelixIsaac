@@ -116,10 +116,10 @@ Sunday                   4140 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-scripts                  63 hrs 56 mins      ███████████████████████░░   90.46 % 
-limfe                    4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Testing Life OS          2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-hillv2-shuttle-bus       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+scripts                  63 hrs 43 mins      ███████████████████████░░   91.89 % 
+Testing Life OS          2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+limfe                    2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+hillv2-shuttle-bus       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -128,7 +128,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 10:02:38 UTC
+ Last Updated on 18/04/2026 09:17:43 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
