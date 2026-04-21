@@ -83,11 +83,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 📦 600.3 kB Used in GitHub's Storage 
  > 
-> 🏆 554 Contributions in the Year 2026
+> 🏆 555 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
@@ -116,11 +116,11 @@ Sunday                   4140 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-scripts                  47 hrs 13 mins      ████████████████████████░   95.36 % 
-limfe                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Testing Life OS          28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-hillv2-shuttle-bus       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+scripts                  32 hrs 2 mins       ███████████████████████░░   90.74 % 
+limfe                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+01 Valen Tan             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Testing Life OS          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+hillv2-shuttle-bus       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2026 10:23:48 UTC
+ Last Updated on 21/04/2026 10:07:31 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
