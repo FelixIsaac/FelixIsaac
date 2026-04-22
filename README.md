@@ -136,7 +136,7 @@ hillv2-shuttle-bus       9 mins              ░░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7705](https://github.com/wezterm/wezterm/issues/7705#issuecomment-4177613567) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
+1. ❗ Opened issue [#5](https://github.com/FelixIsaac/opencode-browser/issues/5) in [FelixIsaac/opencode-browser](https://github.com/FelixIsaac/opencode-browser)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
