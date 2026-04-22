@@ -77,17 +77,17 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 600.3 kB Used in GitHub's Storage 
  > 
-> 🏆 555 Contributions in the Year 2026
+> 🏆 561 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
@@ -116,11 +116,11 @@ Sunday                   4140 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-scripts                  32 hrs 2 mins       ███████████████████████░░   90.74 % 
-limfe                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-01 Valen Tan             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Testing Life OS          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-hillv2-shuttle-bus       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+scripts                  8 hrs 26 mins       █████████████░░░░░░░░░░░░   51.72 % 
+limfe                    6 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
+01 Valen Tan             1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Testing Life OS          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+opencode-browser         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ hillv2-shuttle-bus       9 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 10:07:31 UTC
+ Last Updated on 22/04/2026 10:08:38 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
