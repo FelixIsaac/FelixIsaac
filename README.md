@@ -136,7 +136,7 @@ chat_extracts            22 mins             █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - Tandem](https://github.com/FelixIsaac/tandem/releases/tag/v1.0.0) in [FelixIsaac/tandem](https://github.com/FelixIsaac/tandem)
+1. ❗ Opened issue [#14](https://github.com/FelixIsaac/tandem/issues/14) in [FelixIsaac/tandem](https://github.com/FelixIsaac/tandem)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
