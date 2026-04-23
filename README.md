@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4140 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-scripts                  8 hrs 26 mins       █████████████░░░░░░░░░░░░   51.72 % 
-limfe                    6 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
-01 Valen Tan             1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Testing Life OS          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-opencode-browser         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+limfe                    10 hrs 5 mins       █████████████████░░░░░░░░   66.20 % 
+opencode-browser         2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+01 Valen Tan             1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Testing Life OS          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+chat_extracts            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ opencode-browser         5 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2026 10:08:38 UTC
+ Last Updated on 23/04/2026 10:12:37 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
