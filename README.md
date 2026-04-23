@@ -136,7 +136,7 @@ chat_extracts            22 mins             █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/FelixIsaac/opencode-browser/issues/5) in [FelixIsaac/opencode-browser](https://github.com/FelixIsaac/opencode-browser)
+1. 🚀 Published release [v1.0.0 - Tandem](https://github.com/FelixIsaac/tandem/releases/tag/v1.0.0) in [FelixIsaac/tandem](https://github.com/FelixIsaac/tandem)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
