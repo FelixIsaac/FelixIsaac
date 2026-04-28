@@ -136,7 +136,7 @@ tradingagents            2 hrs 1 min         █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/benjaminshafii/opencode-browser/issues/2) in [benjaminshafii/opencode-browser](https://github.com/benjaminshafii/opencode-browser)
+1. 🗣 Commented on [#12009](https://github.com/vercel/ai/issues/12009#issuecomment-4334769056) in [vercel/ai](https://github.com/vercel/ai)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
