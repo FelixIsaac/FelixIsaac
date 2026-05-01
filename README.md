@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C580%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4141 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-scripts                  25 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.40 % 
-limfe                    21 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Testing Life OS          11 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-opencode-browser         2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-tradingagents            2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+scripts                  25 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.46 % 
+limfe                    18 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Testing Life OS          11 hrs 8 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+tokenusage               3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+tradingagents            2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ tradingagents            2 hrs 4 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 10:33:30 UTC
+ Last Updated on 01/05/2026 10:10:08 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
