@@ -136,7 +136,7 @@ tradingagents            2 hrs 4 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12009](https://github.com/vercel/ai/issues/12009#issuecomment-4334769056) in [vercel/ai](https://github.com/vercel/ai)
+1. ❌ Closed PR [#1](https://github.com/FelixIsaac/tokenusage/pull/1) in [FelixIsaac/tokenusage](https://github.com/FelixIsaac/tokenusage)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
