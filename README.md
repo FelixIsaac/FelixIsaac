@@ -136,7 +136,7 @@ tradingagents            1 hr 3 mins         █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/FelixIsaac/tokenusage/pull/1) in [FelixIsaac/tokenusage](https://github.com/FelixIsaac/tokenusage)
+1. 🗣 Commented on [#1](https://github.com/ussumant/cc2codex/issues/1#issuecomment-4370313344) in [ussumant/cc2codex](https://github.com/ussumant/cc2codex)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
