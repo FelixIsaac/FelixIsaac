@@ -136,7 +136,7 @@ OneDrive - Singapore Poly1 hr 52 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ussumant/cc2codex/issues/1#issuecomment-4370313344) in [ussumant/cc2codex](https://github.com/ussumant/cc2codex)
+1. 🗣 Commented on [#3](https://github.com/hanbu97/tokenusage/pull/3#issuecomment-4414252229) in [hanbu97/tokenusage](https://github.com/hanbu97/tokenusage)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
