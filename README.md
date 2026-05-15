@@ -77,13 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C659%20hrs%2016%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 600.0 kB Used in GitHub's Storage 
+> 📦 600.2 kB Used in GitHub's Storage 
  > 
-> 🏆 646 Contributions in the Year 2026
+> 🏆 649 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,44 +89,12 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2507 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-🌆 Daytime                7031 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌃 Evening                8733 commits        █████████░░░░░░░░░░░░░░░░   36.23 % 
-🌙 Night                  5834 commits        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3766 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  4084 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Wednesday                3182 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Thursday                 2945 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Friday                   2975 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Saturday                 3230 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Sunday                   3923 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-Testing Life OS          33 hrs 14 mins      ███████████████░░░░░░░░░░   60.82 % 
-OneDrive - Singapore Poly13 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-limfe                    2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Labs                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-01 Valen Tan             1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 10:50:31 UTC
+ Last Updated on 15/05/2026 10:52:27 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
