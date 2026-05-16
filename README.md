@@ -136,7 +136,7 @@ Labs                     1 hr 52 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/FelixIsaac/tandem/issues/17) in [FelixIsaac/tandem](https://github.com/FelixIsaac/tandem)
+1. 🗣 Commented on [#15](https://github.com/FelixIsaac/whatsapp-mcp-extended/issues/15#issuecomment-4467647244) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
