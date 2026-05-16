@@ -102,7 +102,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/FelixIsaac/whatsapp-mcp-extended/pull/37#issuecomment-4456668726) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
+1. 💪 Opened PR [#1](https://github.com/VivianBalakrishnan/mnemon/pull/1) in [VivianBalakrishnan/mnemon](https://github.com/VivianBalakrishnan/mnemon)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
