@@ -136,7 +136,7 @@ Labs                     1 hr 52 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/FelixIsaac/tandem/issues/6#issuecomment-4466294859) in [FelixIsaac/tandem](https://github.com/FelixIsaac/tandem)
+1. 🔒 Closed issue [#17](https://github.com/FelixIsaac/tandem/issues/17) in [FelixIsaac/tandem](https://github.com/FelixIsaac/tandem)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
