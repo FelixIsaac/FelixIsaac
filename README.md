@@ -102,7 +102,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/VivianBalakrishnan/mnemon/pull/1) in [VivianBalakrishnan/mnemon](https://github.com/VivianBalakrishnan/mnemon)
+1. 🗣 Commented on [#6](https://github.com/FelixIsaac/tandem/issues/6#issuecomment-4466294859) in [FelixIsaac/tandem](https://github.com/FelixIsaac/tandem)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
