@@ -136,7 +136,7 @@ Labs                     1 hr 52 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/FelixIsaac/whatsapp-mcp-extended/pull/43) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
+1. ❗ Opened issue [#83083](https://github.com/openclaw/openclaw/issues/83083) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
