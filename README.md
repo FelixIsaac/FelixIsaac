@@ -136,7 +136,7 @@ Labs                     1 hr 52 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/FelixIsaac/email-triage/pull/4) in [FelixIsaac/email-triage](https://github.com/FelixIsaac/email-triage)
+1. 🎉 Merged PR [#44](https://github.com/FelixIsaac/whatsapp-mcp-extended/pull/44) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
