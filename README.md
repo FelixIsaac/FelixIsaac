@@ -104,7 +104,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83964](https://github.com/openclaw/openclaw/issues/83964#issuecomment-4490945780) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. 🎉 Merged PR [#3](https://github.com/ussumant/cc2codex/pull/3) in [ussumant/cc2codex](https://github.com/ussumant/cc2codex)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
