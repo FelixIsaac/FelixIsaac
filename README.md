@@ -77,13 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C723%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C729%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 597.8 kB Used in GitHub's Storage 
+> 📦 597.9 kB Used in GitHub's Storage 
  > 
-> 🏆 689 Contributions in the Year 2026
+> 🏆 690 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,44 +91,12 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2595 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-🌆 Daytime                7222 commits        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌃 Evening                9074 commits        █████████░░░░░░░░░░░░░░░░   36.37 % 
-🌙 Night                  6055 commits        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3888 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Tuesday                  4149 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Wednesday                3268 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Thursday                 3032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Friday                   3088 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Saturday                 3409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Sunday                   4112 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-OneDrive - Singapore Poly22 hrs 3 mins       █████████████░░░░░░░░░░░░   52.68 % 
-Testing Life OS          10 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-esp32-campus-probe       4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-limfe                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Labs                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 12:18:04 UTC
+ Last Updated on 20/05/2026 12:02:47 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
