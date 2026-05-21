@@ -77,13 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C729%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 597.9 kB Used in GitHub's Storage 
  > 
-> 🏆 690 Contributions in the Year 2026
+> 🏆 696 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,12 +91,44 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2596 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+🌆 Daytime                7222 commits        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+🌃 Evening                9078 commits        █████████░░░░░░░░░░░░░░░░   36.38 % 
+🌙 Night                  6056 commits        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3892 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Tuesday                  4151 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                3268 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 3032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Friday                   3088 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Saturday                 3409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   4112 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+OneDrive - Singapore Poly14 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
+limfe                    10 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+esp32-campus-probe       4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+whatsapp-mcp-extended    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Testing Life OS          1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 12:02:47 UTC
+ Last Updated on 21/05/2026 12:23:05 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
