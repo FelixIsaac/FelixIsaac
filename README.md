@@ -134,7 +134,7 @@ whatsapp-mcp-extended    2 hrs 35 mins       ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85353](https://github.com/openclaw/openclaw/pull/85353#issuecomment-4522467987) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. 🗣 Commented on [#16](https://github.com/FBarrca/obsidian-inlineAI/pull/16#issuecomment-4523075131) in [FBarrca/obsidian-inlineAI](https://github.com/FBarrca/obsidian-inlineAI)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
