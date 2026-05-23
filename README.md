@@ -134,7 +134,7 @@ esp32-campus-probe       2 hrs 11 mins       █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/FBarrca/obsidian-inlineAI/pull/17) in [FBarrca/obsidian-inlineAI](https://github.com/FBarrca/obsidian-inlineAI)
+1. 💪 Opened PR [#4](https://github.com/FelixIsaac/claude-code-sync/pull/4) in [FelixIsaac/claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
