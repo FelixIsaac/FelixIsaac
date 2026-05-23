@@ -81,11 +81,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 
 > 📦 598.0 kB Used in GitHub's Storage 
  > 
-> 🏆 696 Contributions in the Year 2026
+> 🏆 705 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 23 Private Repositories 
  > 
@@ -95,7 +95,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 🌞 Morning                2629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 🌆 Daytime                7330 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
 🌃 Evening                9146 commits        █████████░░░░░░░░░░░░░░░░   36.32 % 
-🌙 Night                  6078 commits        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+🌙 Night                  6079 commits        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -105,7 +105,7 @@ Tuesday                  4186 commits        ████░░░░░░░�
 Wednesday                3290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 Thursday                 3050 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 Friday                   3150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Saturday                 3456 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Saturday                 3457 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 Sunday                   4142 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 ```
 
@@ -114,11 +114,11 @@ Sunday                   4142 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-OneDrive - Singapore Poly13 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   33.81 % 
-limfe                    10 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-Testing Life OS          3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-esp32-campus-probe       3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-whatsapp-mcp-extended    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+OneDrive - Singapore Poly14 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.12 % 
+limfe                    11 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+Testing Life OS          3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+whatsapp-mcp-extended    2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+esp32-campus-probe       2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 
 **Timeline**
@@ -126,7 +126,7 @@ whatsapp-mcp-extended    2 hrs 35 mins       ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 12:02:01 UTC
+ Last Updated on 23/05/2026 10:47:19 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
