@@ -134,7 +134,7 @@ esp32-campus-probe       2 hrs 11 mins       █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/FelixIsaac/claude-code-sync/pull/4) in [FelixIsaac/claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)
+1. 💪 Opened PR [#146](https://github.com/MLFlexer/resurrect.wezterm/pull/146) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
