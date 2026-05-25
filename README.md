@@ -136,7 +136,7 @@ CA1                      1 hr 42 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/MLFlexer/resurrect.wezterm/pull/146) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
+1. ❗ Opened issue [#86581](https://github.com/openclaw/openclaw/issues/86581) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
