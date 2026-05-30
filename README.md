@@ -77,6 +77,8 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C786%20hrs%2056%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 601.0 kB Used in GitHub's Storage 
@@ -89,12 +91,44 @@ Now that you know more about me, [let's connect so that I know more about you :)
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2674 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+🌆 Daytime                7463 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌃 Evening                9217 commits        █████████░░░░░░░░░░░░░░░░   36.20 % 
+🌙 Night                  6106 commits        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3922 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Tuesday                  4206 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Wednesday                3308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Thursday                 3081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Friday                   3223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Saturday                 3520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Sunday                   4200 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+OneDrive - Singapore Poly9 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+limfe                    7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Testing Life OS          5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+claude                   4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+CA1                      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 12:28:26 UTC
+ Last Updated on 30/05/2026 11:00:37 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
