@@ -116,11 +116,11 @@ Sunday                   4200 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-OneDrive - Singapore Poly8 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Testing Life OS          5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-limfe                    5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-claude                   4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-CA1                      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+OneDrive - Singapore Poly8 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.07 % 
+Testing Life OS          7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
+limfe                    2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+CA1 Files                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+claude                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ CA1                      2 hrs 12 mins       ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 11:09:48 UTC
+ Last Updated on 01/06/2026 15:19:49 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
