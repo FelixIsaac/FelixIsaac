@@ -136,7 +136,7 @@ limfe                    1 hr 11 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com/lharries/whatsapp-mcp/issues/237#issuecomment-4609268070) in [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
+1. 🗣 Commented on [#21](https://github.com/Rana-Faraz/usage-tray-windows/pull/21#issuecomment-4612870337) in [Rana-Faraz/usage-tray-windows](https://github.com/Rana-Faraz/usage-tray-windows)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
