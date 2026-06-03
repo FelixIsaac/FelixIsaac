@@ -136,7 +136,7 @@ limfe                    1 hr 11 mins        █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/Rana-Faraz/usage-tray-windows/pull/21#issuecomment-4612870337) in [Rana-Faraz/usage-tray-windows](https://github.com/Rana-Faraz/usage-tray-windows)
+1. 🚀 Published release [v0.3.0 — Session Reliability & Security Hardening](https://github.com/FelixIsaac/whatsapp-mcp-extended/releases/tag/v0.3.0) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
