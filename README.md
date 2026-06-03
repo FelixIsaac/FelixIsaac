@@ -136,7 +136,7 @@ claude                   1 hr 37 mins        ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#86581](https://github.com/openclaw/openclaw/issues/86581) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. 🗣 Commented on [#237](https://github.com/lharries/whatsapp-mcp/issues/237#issuecomment-4609268070) in [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
