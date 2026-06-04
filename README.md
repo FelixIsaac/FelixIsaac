@@ -77,38 +77,38 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 601.7 kB Used in GitHub's Storage 
+> 📦 601.8 kB Used in GitHub's Storage 
  > 
-> 🏆 749 Contributions in the Year 2026
+> 🏆 801 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 24 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2680 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-🌆 Daytime                7641 commits        ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌃 Evening                9265 commits        █████████░░░░░░░░░░░░░░░░   35.86 % 
-🌙 Night                  6249 commits        ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+🌞 Morning                2642 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+🌆 Daytime                7542 commits        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+🌃 Evening                9085 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
+🌙 Night                  6141 commits        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   3927 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Tuesday                  4216 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                3350 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Thursday                 3082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Friday                   3354 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 3634 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Sunday                   4272 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Monday                   3867 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  4178 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Wednesday                3311 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Thursday                 3041 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Friday                   3289 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Saturday                 3544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Sunday                   4180 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 ```
 
 
@@ -116,11 +116,11 @@ Sunday                   4272 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Testing Life OS          11 hrs 50 mins      █████████████░░░░░░░░░░░░   50.71 % 
-OneDrive - Singapore Poly5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-CA1 Files                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-claude                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-limfe                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Testing Life OS          13 hrs 32 mins      █████████████░░░░░░░░░░░░   52.93 % 
+OneDrive - Singapore Poly2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+01 Valen Tan             2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+CA1 Files                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+claude                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ limfe                    1 hr 11 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2026 13:51:26 UTC
+ Last Updated on 04/06/2026 12:22:03 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
