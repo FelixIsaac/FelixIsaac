@@ -77,11 +77,11 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 601.8 kB Used in GitHub's Storage 
+> 📦 601.9 kB Used in GitHub's Storage 
  > 
 > 🏆 801 Contributions in the Year 2026
  > 
@@ -94,21 +94,21 @@ Now that you know more about me, [let's connect so that I know more about you :)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2642 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-🌆 Daytime                7542 commits        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-🌃 Evening                9085 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
-🌙 Night                  6141 commits        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+🌞 Morning                2695 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+🌆 Daytime                7689 commits        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+🌃 Evening                9287 commits        █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌙 Night                  6275 commits        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   3867 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  4178 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Wednesday                3311 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Thursday                 3041 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Friday                   3289 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Saturday                 3544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Sunday                   4180 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Monday                   3941 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  4216 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Wednesday                3388 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 3111 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Friday                   3362 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 3636 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Sunday                   4292 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 ```
 
 
@@ -128,7 +128,7 @@ claude                   1 hr 2 mins         █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 12:22:03 UTC
+ Last Updated on 05/06/2026 12:32:11 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
