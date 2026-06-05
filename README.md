@@ -136,7 +136,7 @@ claude                   1 hr 2 mins         █░░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.0 — Session Reliability & Security Hardening](https://github.com/FelixIsaac/whatsapp-mcp-extended/releases/tag/v0.3.0) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
+1. 🚀 Published release [v0.6.26](https://github.com/FelixIsaac/openusage/releases/tag/v0.6.26) in [FelixIsaac/openusage](https://github.com/FelixIsaac/openusage)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
