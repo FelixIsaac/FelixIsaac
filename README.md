@@ -136,7 +136,7 @@ OneDrive - Singapore Poly2 hrs 51 mins       ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.6.26](https://github.com/FelixIsaac/openusage/releases/tag/v0.6.26) in [FelixIsaac/openusage](https://github.com/FelixIsaac/openusage)
+1. 🎉 Merged PR [#22](https://github.com/Rana-Faraz/usage-tray-windows/pull/22) in [Rana-Faraz/usage-tray-windows](https://github.com/Rana-Faraz/usage-tray-windows)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
