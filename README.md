@@ -77,11 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C831%20hrs%204%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 602.1 kB Used in GitHub's Storage 
+> 📦 602.2 kB Used in GitHub's Storage 
  > 
-> 🏆 830 Contributions in the Year 2026
+> 🏆 832 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -92,21 +94,21 @@ Now that you know more about me, [let's connect so that I know more about you :)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2680 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+🌞 Morning                2681 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 🌆 Daytime                7503 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌃 Evening                9228 commits        █████████░░░░░░░░░░░░░░░░   36.15 % 
+🌃 Evening                9229 commits        █████████░░░░░░░░░░░░░░░░   36.15 % 
 🌙 Night                  6114 commits        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   3922 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Monday                   3923 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 Tuesday                  4206 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 Wednesday                3320 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 Thursday                 3082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 Friday                   3235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 Saturday                 3537 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Sunday                   4223 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Sunday                   4224 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 ```
 
 
@@ -114,11 +116,11 @@ Sunday                   4223 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Testing Life OS          10 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-monitoring               7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-CA2_Report Writing       5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-limfe                    5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-01 Valen Tan             3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Testing Life OS          12 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+monitoring               10 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+CA2_Report Writing       5 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+limfe                    5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+01 Valen Tan             4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 ```
 
 **Timeline**
@@ -126,7 +128,7 @@ limfe                    5 hrs 5 mins        ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 11:27:44 UTC
+ Last Updated on 08/06/2026 13:39:29 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
