@@ -136,7 +136,7 @@ limfe                    5 hrs 25 mins       ███░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81889](https://github.com/openclaw/openclaw/issues/81889#issuecomment-4644986868) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. 🗣 Commented on [#61857](https://github.com/anthropics/claude-code/issues/61857#issuecomment-4654938194) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
