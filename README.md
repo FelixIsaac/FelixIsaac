@@ -136,7 +136,7 @@ CA2_Report Writing       5 hrs 47 mins       ███░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61857](https://github.com/anthropics/claude-code/issues/61857#issuecomment-4654938194) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. ❗ Opened issue [#7842](https://github.com/wezterm/wezterm/issues/7842) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
