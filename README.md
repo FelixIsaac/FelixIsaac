@@ -136,7 +136,7 @@ CA2_Report Writing       5 hrs 47 mins       ███░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7842](https://github.com/wezterm/wezterm/issues/7842) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
+1. 🗣 Commented on [#220](https://github.com/lharries/whatsapp-mcp/issues/220#issuecomment-4663747073) in [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
