@@ -136,7 +136,7 @@ CA2_Report Writing       5 hrs 47 mins       ███░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/lharries/whatsapp-mcp/issues/220#issuecomment-4663747073) in [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
+1. ❌ Closed PR [#3](https://github.com/hanbu97/tokenusage/pull/3) in [hanbu97/tokenusage](https://github.com/hanbu97/tokenusage)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
