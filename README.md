@@ -77,7 +77,7 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C856%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,11 +116,11 @@ Sunday                   4224 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-limfe                    15 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-monitoring               10 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Testing Life OS          8 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-CA2_Report Writing       5 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-01 Valen Tan             5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+limfe                    19 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   33.61 % 
+monitoring               11 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+CA2_Report Writing       5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Testing Life OS          5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+OneDrive - Singapore Poly4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ CA2_Report Writing       5 hrs 47 mins       ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2026 12:53:24 UTC
+ Last Updated on 11/06/2026 13:21:53 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
