@@ -136,7 +136,7 @@ OneDrive - Singapore Poly4 hrs 42 mins       ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/hanbu97/tokenusage/pull/3) in [hanbu97/tokenusage](https://github.com/hanbu97/tokenusage)
+1. ℹ️ Labeled issue [#47](https://github.com/FelixIsaac/whatsapp-mcp-extended/issues/47) in [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
