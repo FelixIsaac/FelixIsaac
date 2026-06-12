@@ -77,13 +77,13 @@ Now that you know more about me, [let's connect so that I know more about you :)
 ## How I spent my time in the last few days
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C856%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C863%20hrs%2021%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 602.2 kB Used in GitHub's Storage 
  > 
-> 🏆 834 Contributions in the Year 2026
+> 🏆 835 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -116,11 +116,11 @@ Sunday                   4224 commits        ████░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-limfe                    19 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   33.61 % 
-monitoring               11 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-CA2_Report Writing       5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Testing Life OS          5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-OneDrive - Singapore Poly4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+limfe                    19 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   34.90 % 
+monitoring               12 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Testing Life OS          5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+OneDrive - Singapore Poly4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+claude                   4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 ```
 
 **Timeline**
@@ -128,7 +128,7 @@ OneDrive - Singapore Poly4 hrs 42 mins       ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FelixIsaac/FelixIsaac/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2026 13:21:53 UTC
+ Last Updated on 12/06/2026 12:51:53 UTC
 <!--END_SECTION:waka-->
 
 ## Github statistics
