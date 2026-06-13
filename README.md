@@ -136,7 +136,7 @@ claude                   4 hrs 22 mins       ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#282](https://github.com/CursorTouch/Windows-MCP/pull/282) in [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
+1. 🗣 Commented on [#89033](https://github.com/openclaw/openclaw/pull/89033#issuecomment-4698033688) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
