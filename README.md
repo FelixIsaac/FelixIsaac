@@ -136,7 +136,7 @@ claude                   4 hrs 4 mins        ██░░░░░░░░░�
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89033](https://github.com/openclaw/openclaw/pull/89033#issuecomment-4698033688) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. 💪 Opened PR [#63](https://github.com/tbxark/mcp-proxy/pull/63) in [tbxark/mcp-proxy](https://github.com/tbxark/mcp-proxy)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
