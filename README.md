@@ -2,47 +2,57 @@
 
 <div align="left">
 
-**Full-stack developer who ships AI-powered products end to end** — from the rough idea to the deployed thing people actually use. Based in Singapore 🇸🇬.
+**Agent-Native Systems Engineer & Full-Stack Builder** · Based in Singapore 🇸🇬
 
 [![Website](https://img.shields.io/badge/Website-felixisaac.dev-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://felixisaac.dev)
 [![Email](https://img.shields.io/badge/Email-me%40felixisaac.dev-A855F7?style=flat-square&logo=gmail&logoColor=white)](mailto:me@felixisaac.dev)
 [![GitHub Stars](https://img.shields.io/badge/Stars-30%2B-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/FelixIsaac)
+[![MCP Ecosystem](https://img.shields.io/badge/MCP-Protocol-10B981?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/FelixIsaac/whatsapp-mcp-extended)
 
 </div>
 
-I started in classic full-stack web/app work and have been steadily moving toward **AI & agent tooling** — not as a buzzword, but because it's where the interesting, unsolved problems are right now. Most of what I make starts as a personal annoyance I wanted gone.
-
-```text
-full-stack roots  →  AI / agent tooling  →  lean transport primitives  →  products that ship
+```bash
+$ felix info
+> Focus:      Agent infrastructure, high-performance transport primitives, & end-to-end AI tools
+> Philosophy: Unix composability over monoliths — build lean primitives that agents can orchestrate
+> Motto:      "Most of what I make starts as a personal annoyance I wanted gone."
 ```
 
 ---
 
-## 🛠️ Featured Work
+## 🛠️ Flagship Open-Source Projects
 
-| Project | Stars & Status | What it does |
-|:--------|:--------------:|:-------------|
-| **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | ⭐ **22** · `v0.3.0` | Production WhatsApp MCP server — 26 tools, webhooks, anti-ban, Docker, self-healing. Maintained drop-in replacement with 17 active satellite forks. |
-| **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | `v1.11.2` · Homebrew | Blazing-fast **Rust** CLI, TUI & GUI tracking AI costs across 10 providers (Claude Code, Codex, Antigravity, Gemini, OpenCode, Grok, DeepSeek). 0.08s speed, SQLite WAL cache, 1-line zero-dep installers. |
-| **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** | ⭐ **8** | Sync your Claude Code setup across machines via GitHub, with **age-encrypted** secrets. Cross-platform Go CLI. |
-| **[tandem](https://github.com/FelixIsaac/tandem)** | `npm` `@felixisaac/tandem` | Browser MCP — lets AI agents drive your *real, authenticated* Chrome session. Works with Claude Code, Cursor, Codex, Gemini CLI. |
+| Project | Highlights & Performance | What it does |
+|:--------|:------------------------:|:-------------|
+| **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | ⭐ **22** · 17 Satellite Forks | **Production WhatsApp MCP Server** — 26 curated transport tools, webhooks, anti-ban protection, and JID safety allowlists. Built for Claude Code, Cursor, OpenCode, and Codex. |
+| **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | `v1.11.2` · 0.08s Execution | **Blazing-Fast Rust AI Telemetry** — Tracks costs & rate-limits across 10 providers (Claude Code, Codex, Antigravity, Gemini, OpenCode, Grok, DeepSeek). Includes TUI, SQLite WAL cache, & 1-line zero-dep installers. |
+| **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** | ⭐ **8** · Cross-Platform Go | **Age-Encrypted Agent Config Sync** — Syncs Claude Code environments, prompts, and settings securely across machines via GitHub. |
+| **[tandem](https://github.com/FelixIsaac/tandem)** | `npm` `@felixisaac/tandem` | **Real-Session Browser MCP** — Enables AI agents to drive your authenticated Chrome browser session cleanly without headless detection blocks. |
 
 ---
 
-## 🔌 MCP & Agent Tooling Ecosystem
+## ⚡ Quick 1-Line Installs
 
-I actively maintain and contribute to tools across the Model Context Protocol & Agentic AI landscape:
+```bash
+# Install tokenusage (Rust AI token tracker) via Homebrew
+brew install FelixIsaac/tokenusage/tokenusage
 
-| Tool | Role | What it does |
-|:-----|:----:|:-------------|
-| **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | Creator / Maintainer | Lean transport primitive for WhatsApp (messaging CRUD, media, groups, safety allowlist) |
-| **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | Creator / Maintainer | Real-time AI token usage & rate-limit shield — 100% local, 0.08s reports across 10 providers |
-| **[homebrew-tokenusage](https://github.com/FelixIsaac/homebrew-tokenusage)** | Maintainer | Official Homebrew tap (`brew install FelixIsaac/tokenusage/tokenusage`) |
-| **[tandem](https://github.com/FelixIsaac/tandem)** | Maintainer | Real-Chrome browser automation for agents with existing sessions |
-| **[openusage](https://github.com/FelixIsaac/openusage)** | Maintainer | Open-source subscription & usage tracker — stop paying for unused services |
-| **[ccstatusline](https://github.com/FelixIsaac/ccstatusline)** | Creator | Powerline statusline for Claude Code with themes and live tokens |
-| **[Windows-MCP](https://github.com/FelixIsaac/Windows-MCP)** | Contributor | Computer-use MCP for Windows |
-| **[mcp-proxy](https://github.com/FelixIsaac/mcp-proxy)** | Contributor | Aggregates multiple MCP servers behind a single HTTP endpoint |
+# Or install standalone binary (macOS / Linux)
+curl --proto '=https' --tlsv1.2 -sSf https://github.com/FelixIsaac/tokenusage/releases/latest/download/tokenusage-installer.sh | sh
+
+# Launch Browser MCP server for agents
+npx @felixisaac/tandem
+```
+
+---
+
+## 🧠 Agentic Engineering & MCP Ecosystem
+
+I design software built to be consumed by both humans and autonomous AI agents:
+
+- 🤖 **Agent-Native Documentation:** All primary repos ship with explicit [`AGENTS.md`](file:///Users/felix/Projects/whatsapp-mcp-extended/AGENTS.md) & [`ARCHITECTURE.md`](file:///Users/felix/Projects/whatsapp-mcp-extended/ARCHITECTURE.md) contracts detailing invariants, test targets, and safety boundaries.
+- 🧱 **Lean Transport Primitives:** Heavy ML tasks (transcription, vector search) are kept modular as sidecars/plugins rather than bloating core transport servers.
+- 📡 **Automated Downstream Monitoring:** Satellite forks across community ecosystems are continuously monitored via automated CI workflows to pull community fixes upstream.
 
 ---
 
@@ -61,7 +71,7 @@ I actively maintain and contribute to tools across the Model Context Protocol & 
 
 ---
 
-## 📊 Activity & Stats
+## 📊 Analytics & Impact
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelixIsaac&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true" width="48%" />
@@ -70,12 +80,15 @@ I actively maintain and contribute to tools across the Model Context Protocol & 
 
 ---
 
-## 🤝 Work & Collaboration
+## 💬 Beyond the Terminal
 
-I'm open to **freelance and collaboration** — especially building AI-powered tools, agent infrastructure, and end-to-end products. If you've got something you want shipped, let's talk:
+* **Currently exploring:** Local LLM inference, Rust async pipelines, and multi-agent consensus protocols.
+* **Off-screen:** Science and maths rabbit holes, mechanical keyboards, Star Trek, and cats 🐈.
 
 📫 **[me@felixisaac.dev](mailto:me@felixisaac.dev)** · 🌐 **[felixisaac.dev](https://felixisaac.dev)**
 
 ---
 
-*Building lean primitives, fostering open-source communities, and shipping products that people love and star.*
+<div align="center">
+  <sub><i>Building lean primitives, fostering open-source communities, and shipping products that people love and star.</i></sub>
+</div>
