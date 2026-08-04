@@ -54,7 +54,7 @@ npx @felixisaac/tandem
 
 I design software built to be consumed by both humans and autonomous AI agents:
 
-- 🤖 **Agent-Native Contracts:** Primary repos include explicit [`AGENTS.md`](file:///Users/felix/Projects/whatsapp-mcp-extended/AGENTS.md) & [`ARCHITECTURE.md`](file:///Users/felix/Projects/whatsapp-mcp-extended/ARCHITECTURE.md) files defining invariants, safety gates, and test targets.
+- 🤖 **Agent-Native Contracts:** Primary repos include explicit [`AGENTS.md`](https://github.com/FelixIsaac/whatsapp-mcp-extended/blob/main/AGENTS.md) & [`ARCHITECTURE.md`](https://github.com/FelixIsaac/whatsapp-mcp-extended/blob/main/ARCHITECTURE.md) files defining invariants, safety gates, and test targets.
 - 🧱 **Lean Transport Primitives:** Heavy ML tasks (transcription, vector search) are kept modular as sidecars/plugins rather than bloating core transport servers.
 - 📡 **Automated Downstream Monitoring:** Satellite forks across community ecosystems are continuously monitored via automated CI workflows to pull community fixes upstream.
 
