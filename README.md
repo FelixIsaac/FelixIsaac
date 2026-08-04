@@ -2,7 +2,11 @@
 
 <div align="left">
 
-**Agent-Native Systems Engineer & Full-Stack Builder** · Based in Singapore 🇸🇬
+<a href="https://github.com/FelixIsaac">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&width=600&lines=Agent-Native+Systems+Engineer;Creator+of+whatsapp-mcp-extended+(%E2%AD%9022);Rust+%26+Go+Developer;Shipping+lean+AI+primitives" alt="Typing SVG" />
+</a>
+
+Based in Singapore 🇸🇬 · *Building to learn, shipping to prove it.*
 
 [![Website](https://img.shields.io/badge/Website-felixisaac.dev-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://felixisaac.dev)
 [![Email](https://img.shields.io/badge/Email-me%40felixisaac.dev-A855F7?style=flat-square&logo=gmail&logoColor=white)](mailto:me@felixisaac.dev)
@@ -22,8 +26,8 @@ $ felix info
 
 ## 🛠️ Flagship Open-Source Projects
 
-| Project | Highlights & Performance | What it does |
-|:--------|:------------------------:|:-------------|
+| Project | Stars & Status | What it does |
+|:--------|:--------------:|:-------------|
 | **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | ⭐ **22** · 17 Satellite Forks | **Production WhatsApp MCP Server** — 26 curated transport tools, webhooks, anti-ban protection, and JID safety allowlists. Built for Claude Code, Cursor, OpenCode, and Codex. |
 | **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | `v1.11.2` · 0.08s Execution | **Blazing-Fast Rust AI Telemetry** — Tracks costs & rate-limits across 10 providers (Claude Code, Codex, Antigravity, Gemini, OpenCode, Grok, DeepSeek). Includes TUI, SQLite WAL cache, & 1-line zero-dep installers. |
 | **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** | ⭐ **8** · Cross-Platform Go | **Age-Encrypted Agent Config Sync** — Syncs Claude Code environments, prompts, and settings securely across machines via GitHub. |
