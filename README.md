@@ -24,14 +24,12 @@ $ felix info
 
 ---
 
-## 🛠️ Flagship Open-Source Projects
+## 🚀 Currently Building (2026 Focus)
 
-| Project | Stars & Status | What it does |
-|:--------|:--------------:|:-------------|
-| **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | ⭐ **22** · 17 Satellite Forks | **Production WhatsApp MCP Server** — 26 curated transport tools, webhooks, anti-ban protection, and JID safety allowlists. Built for Claude Code, Cursor, OpenCode, and Codex. |
-| **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | `v1.11.2` · 0.08s Execution | **Blazing-Fast Rust AI Telemetry** — Tracks costs & rate-limits across 10 providers (Claude Code, Codex, Antigravity, Gemini, OpenCode, Grok, DeepSeek). Includes TUI, SQLite WAL cache, & 1-line zero-dep installers. |
-| **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** | ⭐ **8** · Cross-Platform Go | **Age-Encrypted Agent Config Sync** — Syncs Claude Code environments, prompts, and settings securely across machines via GitHub. |
-| **[tandem](https://github.com/FelixIsaac/tandem)** | `npm` `@felixisaac/tandem` | **Real-Session Browser MCP** — Enables AI agents to drive your authenticated Chrome browser session cleanly without headless detection blocks. |
+* 💬 **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** (⭐ **22**) — Production WhatsApp MCP server with 26 transport tools, webhooks, anti-ban protection, safety allowlists, & 17 downstream satellite forks.
+* ⚡ **[tokenusage](https://github.com/FelixIsaac/tokenusage)** (`v1.11.2`) — Blazing-fast **Rust** CLI & TUI tracking AI token costs & rate limits across 10 providers in **0.08s**. Homebrew tap & 1-line zero-dep installers.
+* 🔐 **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** (⭐ **8**) — Cross-platform Go CLI for syncing Claude Code environments with age-encrypted secrets.
+* 🌐 **[tandem](https://github.com/FelixIsaac/tandem)** (`npm` `@felixisaac/tandem`) — Real-session browser MCP server for authenticated Chrome automation.
 
 ---
 
@@ -50,17 +48,17 @@ npx @felixisaac/tandem
 
 ---
 
-## 🧠 Agentic Engineering & MCP Ecosystem
+## 🧠 Agentic Engineering & Open-Source Philosophy
 
-I design software built to be consumed by both humans and autonomous AI agents:
+I engineer systems designed for both human developers and autonomous AI agents:
 
-- 🤖 **Agent-Native Documentation:** All primary repos ship with explicit [`AGENTS.md`](file:///Users/felix/Projects/whatsapp-mcp-extended/AGENTS.md) & [`ARCHITECTURE.md`](file:///Users/felix/Projects/whatsapp-mcp-extended/ARCHITECTURE.md) contracts detailing invariants, test targets, and safety boundaries.
+- 🤖 **Agent-Native Contracts:** Primary repos include explicit [`AGENTS.md`](file:///Users/felix/Projects/whatsapp-mcp-extended/AGENTS.md) & [`ARCHITECTURE.md`](file:///Users/felix/Projects/whatsapp-mcp-extended/ARCHITECTURE.md) files defining invariants, safety gates, and test targets.
 - 🧱 **Lean Transport Primitives:** Heavy ML tasks (transcription, vector search) are kept modular as sidecars/plugins rather than bloating core transport servers.
 - 📡 **Automated Downstream Monitoring:** Satellite forks across community ecosystems are continuously monitored via automated CI workflows to pull community fixes upstream.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Core Stack
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -75,7 +73,7 @@ I design software built to be consumed by both humans and autonomous AI agents:
 
 ---
 
-## 📊 Analytics & Impact
+## 📊 Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelixIsaac&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true" width="48%" />
