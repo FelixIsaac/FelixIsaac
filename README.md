@@ -77,9 +77,13 @@ I design software built to be consumed by both humans and autonomous AI agents:
 
 ## 📊 Analytics & Impact
 
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=FelixIsaac&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixIsaac&theme=tokyonight&hide_border=true" width="48%" />
+<div align="left">
+
+[![Commits](https://img.shields.io/badge/Commits-2%2C121%2B%20in%202026-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelixIsaac)
+[![Stars](https://img.shields.io/badge/Total%20Stars-30%2B-F59E0B?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/FelixIsaac)
+[![Repositories](https://img.shields.io/badge/Repositories-44%20Public-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/FelixIsaac?tab=repositories)
+[![Forks](https://img.shields.io/badge/Satellite%20Forks-17%20Active-A855F7?style=for-the-badge&logo=gitfork&logoColor=white)](https://github.com/FelixIsaac/whatsapp-mcp-extended/network/members)
+
 </div>
 
 ---
