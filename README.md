@@ -2,36 +2,37 @@
 
 <div align="left">
 
-<a href="https://github.com/FelixIsaac">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&width=600&lines=Agent-Native+Systems+Engineer;Creator+of+whatsapp-mcp-extended+(%E2%AD%9022);Rust+%26+Go+Developer;Shipping+lean+AI+primitives" alt="Typing SVG" />
-</a>
+**Systems & Agent Infrastructure Engineer** · Singapore 🇸🇬  
+*Building lean transport primitives for humans and autonomous AI agents.*
 
-Based in Singapore 🇸🇬 · *Building to learn, shipping to prove it.*
-
-[![Website](https://img.shields.io/badge/Website-felixisaac.dev-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://felixisaac.dev)
-[![Email](https://img.shields.io/badge/Email-me%40felixisaac.dev-A855F7?style=flat-square&logo=gmail&logoColor=white)](mailto:me@felixisaac.dev)
-[![GitHub Stars](https://img.shields.io/badge/Stars-30%2B-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/FelixIsaac)
-[![MCP Ecosystem](https://img.shields.io/badge/MCP-Protocol-10B981?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/FelixIsaac/whatsapp-mcp-extended)
+[Website](https://felixisaac.dev) · [Email](mailto:me@felixisaac.dev) · [Projects](https://github.com/FelixIsaac?tab=repositories) · [Gists](https://gist.github.com/FelixIsaac)
 
 </div>
 
+<!-- METRICS:START -->
+> ⚡ **Live Metrics:** **56** GitHub Stars · **31** Forks · **10** Active Open-Source Projects
+<!-- METRICS:END -->
+
 ```bash
-$ felix info
-> Focus:      Agent infrastructure, high-performance transport primitives, & end-to-end AI tools
-> Philosophy: Unix composability over monoliths — build lean primitives that agents can orchestrate
-> Motto:      "Most of what I make starts as a personal annoyance I wanted gone."
+$ felix status
+Focus:      Agent infrastructure, high-performance transports, & autonomous tooling
+Philosophy: Unix composability over monoliths — build lean primitives agents can orchestrate
+Motto:      "Most of what I make starts as a personal annoyance I wanted gone."
 ```
 
 ---
 
-## 🛠️ Flagship Open-Source Projects
+## 🛠️ Flagship Systems & Open-Source
 
-| Project | Stars & Status | What it does |
-|:--------|:--------------:|:-------------|
-| **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | ⭐ **22** · 17 Satellite Forks | **Production WhatsApp MCP Server** — 26 curated transport tools, webhooks, anti-ban protection, and JID safety allowlists. Built for Claude Code, Cursor, OpenCode, and Codex. |
-| **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | `v1.11.2` · 0.08s Execution | **Blazing-Fast Rust AI Telemetry** — Tracks costs & rate-limits across 10 providers (Claude Code, Codex, Antigravity, Gemini, OpenCode, Grok, DeepSeek). Includes TUI, SQLite WAL cache, & 1-line zero-dep installers. |
-| **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** | ⭐ **8** · Cross-Platform Go | **Age-Encrypted Agent Config Sync** — Syncs Claude Code environments, prompts, and settings securely across machines via GitHub. |
-| **[tandem](https://github.com/FelixIsaac/tandem)** | `npm` `@felixisaac/tandem` | **Real-Session Browser MCP** — Enables AI agents to drive your authenticated Chrome browser session cleanly without headless detection blocks. |
+<!-- PROJECTS:START -->
+| Project | Lang & Release | Stars | Description |
+|:---|:---:|:---:|:---|
+| **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | `Go`<br>`v0.4.0` | ⭐ **41** | **Production WhatsApp MCP Server** — 26 curated transport tools, webhooks, anti-ban rate limiting, self-healing watchdog, and JID safety allowlists. Built for Claude Code, Cursor, OpenCode, and Codex. |
+| **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | `Rust`<br>`v1.11.8` | ⭐ **2** | **Blazing-Fast AI Telemetry** — Cost & quota tracking across 10 providers (Claude Code, Codex, Antigravity, Gemini, Grok, DeepSeek). Includes TUI dashboard, SQLite WAL cache, & 1-line zero-dep installers. |
+| **[tandem](https://github.com/FelixIsaac/tandem)** | `TypeScript`<br>`v1.0.4` | ⭐ **3** | **Real-Session Browser MCP** — Enables AI agents to drive authenticated Chrome browser sessions cleanly without headless detection blocks. Published on npm as `@felixisaac/tandem`. |
+| **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** | `Go`<br>`v0.2.7` | ⭐ **8** | **Age-Encrypted Agent Config Sync** — Securely syncs Claude Code environments, prompts, and settings across machines via GitHub with cryptographic age encryption. |
+| **[youngasians.org](https://github.com/FelixIsaac/youngasians.org)** | `Next.js`<br>— | ⭐ **0** | **Young Asians Official Platform** — Web application empowering the next generation of Asian youth leaders. Built with Next.js App Router, TypeScript, and modern static optimization. |
+<!-- PROJECTS:END -->
 
 ---
 
@@ -44,47 +45,28 @@ brew install FelixIsaac/tokenusage/tokenusage
 # Or install standalone binary (macOS / Linux)
 curl --proto '=https' --tlsv1.2 -sSf https://github.com/FelixIsaac/tokenusage/releases/latest/download/tokenusage-installer.sh | sh
 
-# Launch Browser MCP server for agents
+# Launch Browser MCP server for autonomous agents
 npx @felixisaac/tandem
 ```
 
 ---
 
-## 🧠 Agentic Engineering & Open-Source Philosophy
+## 🧠 Engineering & Systems Philosophy
 
-I design software built to be consumed by both humans and autonomous AI agents:
+I design software built to be reliably consumed by both humans and autonomous agents:
 
-- 🤖 **Agent-Native Contracts:** Primary repos include explicit [`AGENTS.md`](https://github.com/FelixIsaac/whatsapp-mcp-extended/blob/main/AGENTS.md) & [`ARCHITECTURE.md`](https://github.com/FelixIsaac/whatsapp-mcp-extended/blob/main/ARCHITECTURE.md) files defining invariants, safety gates, and test targets.
-- 🧱 **Lean Transport Primitives:** Heavy ML tasks (transcription, vector search) are kept modular as sidecars/plugins rather than bloating core transport servers.
-- 📡 **Automated Downstream Monitoring:** Satellite forks across community ecosystems are continuously monitored via automated CI workflows to pull community fixes upstream.
-
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+- 🤖 **Agent-Native Contracts:** Primary repos feature explicit [`AGENTS.md`](https://github.com/FelixIsaac/whatsapp-mcp-extended/blob/main/AGENTS.md) and [`ARCHITECTURE.md`](https://github.com/FelixIsaac/whatsapp-mcp-extended/blob/main/ARCHITECTURE.md) files defining invariants, safety gates, and deterministic test targets.
+- 🧱 **Lean Transport Primitives:** Heavy ML tasks (transcription, vector search) are decoupled into modular sidecars rather than bloating core transport servers.
+- ⚡ **Zero-Overhead Reliability:** Written predominantly in **Rust** and **Go** for single-binary portability, instant cold-starts (<10ms), and predictable memory usage.
+- 📡 **Automated Downstream Sync:** Satellite forks across community ecosystems are continuously monitored via automated CI workflows to pull community fixes upstream.
 
 ---
 
-## 📊 Analytics & Impact
+## 🧰 Technical Foundations
 
-<div align="left">
-
-[![Commits](https://img.shields.io/badge/Commits-2%2C121%2B%20in%202026-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelixIsaac)
-[![Stars](https://img.shields.io/badge/Total%20Stars-30%2B-F59E0B?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/FelixIsaac)
-[![Repositories](https://img.shields.io/badge/Repositories-44%20Public-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/FelixIsaac?tab=repositories)
-[![Forks](https://img.shields.io/badge/Satellite%20Forks-17%20Active-A855F7?style=for-the-badge&logo=gitfork&logoColor=white)](https://github.com/FelixIsaac/whatsapp-mcp-extended/network/members)
-
-</div>
+* **Languages:** Rust · Go · TypeScript · Python · SQL
+* **Architectures:** Model Context Protocol (MCP) · SSE / stdio transports · REST & Webhooks · WebSockets
+* **Ecosystems:** Next.js / React · SQLite (WAL mode) · Docker · Linux / macOS Systems Programming
 
 ---
 
@@ -98,5 +80,5 @@ I design software built to be consumed by both humans and autonomous AI agents:
 ---
 
 <div align="center">
-  <sub><i>Building lean primitives, fostering open-source communities, and shipping products that people love and star.</i></sub>
+  <sub><i>Automatically refreshed via GitHub Actions · Building lean primitives and shipping software that compounds.</i></sub>
 </div>

@@ -1,0 +1,45 @@
+name: Sync Profile Metrics
+
+on:
+  schedule:
+    # Run twice daily at 00:00 and 12:00 UTC
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/update_readme.py"
+      - ".github/workflows/profile-sync.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Profile Metric Updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update_readme.py
+
+      - name: Commit and push if updated
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore(metrics): auto-refresh live project stars & releases [skip ci]"
+            git push
+          else
+            echo "No metric changes detected; README is up to date."
+          fi
