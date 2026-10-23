@@ -31,7 +31,6 @@ Motto:      "Most of what I make starts as a personal annoyance I wanted gone."
 | **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | `Rust`<br>`v1.11.8` | ⭐ **2** | **Blazing-Fast AI Telemetry** — Cost & quota tracking across 10 providers (Claude Code, Codex, Antigravity, Gemini, Grok, DeepSeek). Includes TUI dashboard, SQLite WAL cache, & 1-line zero-dep installers. |
 | **[tandem](https://github.com/FelixIsaac/tandem)** | `TypeScript`<br>`v1.0.4` | ⭐ **3** | **Real-Session Browser MCP** — Enables AI agents to drive authenticated Chrome browser sessions cleanly without headless detection blocks. Published on npm as `@felixisaac/tandem`. |
 | **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** | `Go`<br>`v0.2.7` | ⭐ **8** | **Age-Encrypted Agent Config Sync** — Securely syncs Claude Code environments, prompts, and settings across machines via GitHub with cryptographic age encryption. |
-| **[youngasians.org](https://github.com/FelixIsaac/youngasians.org)** | `Next.js`<br>— | ⭐ **0** | **Young Asians Official Platform** — Web application empowering the next generation of Asian youth leaders. Built with Next.js App Router, TypeScript, and modern static optimization. |
 <!-- PROJECTS:END -->
 
 ---
