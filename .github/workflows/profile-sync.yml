@@ -15,6 +15,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-sync
+  cancel-in-progress: false
+
 jobs:
   sync-metrics:
     runs-on: ubuntu-latest
@@ -39,7 +43,8 @@ jobs:
           if ! git diff --quiet README.md; then
             git add README.md
             git commit -m "chore(metrics): auto-refresh live project stars & releases [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin main
           else
             echo "No metric changes detected; README is up to date."
           fi

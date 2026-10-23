@@ -38,10 +38,10 @@ FEATURED_REPOS = [
         "role": "**Age-Encrypted Agent Config Sync** — Securely syncs Claude Code environments, prompts, and settings across machines via GitHub with cryptographic age encryption.",
     },
     {
-        "repo": "FelixIsaac/youngasians.org",
-        "name": "youngasians.org",
-        "lang": "Next.js",
-        "role": "**Young Asians Official Platform** — Web application empowering the next generation of Asian youth leaders. Built with Next.js App Router, TypeScript, and modern static optimization.",
+        "repo": "FelixIsaac/cmux-orbit",
+        "name": "cmux-orbit",
+        "lang": "TypeScript",
+        "role": "**Agent-First Mobile Mission Control** — Run Claude Code, Grok CLI, Codex, and Antigravity sessions directly from your phone over secure Tailscale mesh networking.",
     },
 ]
 
