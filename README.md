@@ -10,7 +10,7 @@
 </div>
 
 <!-- METRICS:START -->
-> ⚡ **Live Metrics:** **56** GitHub Stars · **31** Forks · **10** Active Open-Source Projects
+> ⚡ **Live Metrics:** **57** GitHub Stars · **32** Forks · **10** Active Open-Source Projects
 <!-- METRICS:END -->
 
 ```bash
@@ -27,7 +27,7 @@ Motto:      "Most of what I make starts as a personal annoyance I wanted gone."
 <!-- PROJECTS:START -->
 | Project | Lang & Release | Stars | Description |
 |:---|:---:|:---:|:---|
-| **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | `Go`<br>`v0.4.0` | ⭐ **41** | **Production WhatsApp MCP Server** — 26 curated transport tools, webhooks, anti-ban rate limiting, self-healing watchdog, and JID safety allowlists. Built for Claude Code, Cursor, OpenCode, and Codex. |
+| **[whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended)** | `Go`<br>`v0.4.0` | ⭐ **42** | **Production WhatsApp MCP Server** — 26 curated transport tools, webhooks, anti-ban rate limiting, self-healing watchdog, and JID safety allowlists. Built for Claude Code, Cursor, OpenCode, and Codex. |
 | **[tokenusage](https://github.com/FelixIsaac/tokenusage)** | `Rust`<br>`v1.11.8` | ⭐ **2** | **Blazing-Fast AI Telemetry** — Cost & quota tracking across 10 providers (Claude Code, Codex, Antigravity, Gemini, Grok, DeepSeek). Includes TUI dashboard, SQLite WAL cache, & 1-line zero-dep installers. |
 | **[tandem](https://github.com/FelixIsaac/tandem)** | `TypeScript`<br>`v1.0.4` | ⭐ **3** | **Real-Session Browser MCP** — Enables AI agents to drive authenticated Chrome browser sessions cleanly without headless detection blocks. Published on npm as `@felixisaac/tandem`. |
 | **[claude-code-sync](https://github.com/FelixIsaac/claude-code-sync)** | `Go`<br>`v0.2.7` | ⭐ **8** | **Age-Encrypted Agent Config Sync** — Securely syncs Claude Code environments, prompts, and settings across machines via GitHub with cryptographic age encryption. |
