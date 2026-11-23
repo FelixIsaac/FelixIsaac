@@ -41,9 +41,10 @@ FEATURED_REPOS = [
         "repo": "FelixIsaac/cmux-orbit",
         "name": "cmux-orbit",
         "lang": "TypeScript",
-        "role": "**Agent-First Mobile Mission Control** — Run Claude Code, Grok CLI, Codex, and Antigravity sessions directly from your phone over secure Tailscale mesh networking.",
+        "role": "**Agent-First Mobile Mission Control** — Drive Claude Code, Grok CLI, Codex, Pi, and Antigravity sessions from your phone over Tailscale with live thinking & token streaming.",
     },
 ]
+
 
 def github_api_get(endpoint):
     token = os.environ.get("GITHUB_TOKEN")
@@ -74,6 +75,7 @@ def github_api_get(endpoint):
     except Exception as e:
         print(f"API request failed for {endpoint}: {e}")
         return None
+
 
 def fetch_stats():
     # 1. Fetch user repos (up to 100)
@@ -108,7 +110,7 @@ def fetch_stats():
             "stars": stars,
             "forks": forks,
             "release": release_tag,
-            "role": f["role"]
+            "role": f["role"],
         })
 
     return {
@@ -116,28 +118,38 @@ def fetch_stats():
         "total_forks": total_forks,
         "active_repos": len(active_repos),
         "total_public": len(public_non_fork),
-        "projects": projects_info
+        "projects": projects_info,
     }
 
+
 def render_metrics_markdown(stats):
+    stars = stats["total_stars"]
+    forks = stats["total_forks"]
+    active = stats["active_repos"]
     return (
-        f"> ⚡ **Live Metrics:** **{stats['total_stars']}** GitHub Stars · "
-        f"**{stats['total_forks']}** Forks · "
-        f"**{stats['active_repos']}** Active Open-Source Projects"
+        '<p align="left">\n'
+        f'  <img src="https://img.shields.io/badge/GitHub%20Stars-{stars}-de6e46?style=flat-square&logo=github&logoColor=white&labelColor=18181b" alt="GitHub Stars" />\n'
+        f'  <img src="https://img.shields.io/badge/Forks-{forks}-3f3f46?style=flat-square&logo=git&logoColor=white&labelColor=18181b" alt="GitHub Forks" />\n'
+        f'  <img src="https://img.shields.io/badge/Active%20OSS-{active}%20repos-22c55e?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=18181b" alt="Active OSS" />\n'
+        '  <a href="https://felixisaac.dev"><img src="https://img.shields.io/badge/felixisaac.dev-18181b?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>\n'
+        '  <a href="mailto:me@felixisaac.dev"><img src="https://img.shields.io/badge/me@felixisaac.dev-18181b?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>\n'
+        '</p>'
     )
+
 
 def render_projects_markdown(projects):
     lines = [
-        "| Project | Lang & Release | Stars | Description |",
-        "|:---|:---:|:---:|:---|"
+        "| Project | Stack | Stars | What it does |",
+        "|:---|:---:|:---:|:---|",
     ]
     for p in projects:
-        rel_badge = f"`{p['release']}`" if p['release'] else "—"
+        rel_badge = f"`{p['release']}`" if p["release"] else "`main`"
         star_str = f"⭐ **{p['stars']}**"
         lines.append(
             f"| **[{p['name']}]({p['url']})** | `{p['lang']}`<br>{rel_badge} | {star_str} | {p['role']} |"
         )
     return "\n".join(lines)
+
 
 def update_readme():
     readme_path = os.path.join(os.path.dirname(__file__), "..", "..", "README.md")
@@ -161,7 +173,7 @@ def update_readme():
         r"<!-- METRICS:START -->.*?<!-- METRICS:END -->",
         f"<!-- METRICS:START -->\n{metrics_md}\n<!-- METRICS:END -->",
         content,
-        flags=re.DOTALL
+        flags=re.DOTALL,
     )
 
     # Replace PROJECTS section
@@ -170,7 +182,7 @@ def update_readme():
         r"<!-- PROJECTS:START -->.*?<!-- PROJECTS:END -->",
         f"<!-- PROJECTS:START -->\n{projects_md}\n<!-- PROJECTS:END -->",
         content,
-        flags=re.DOTALL
+        flags=re.DOTALL,
     )
 
     with open(readme_path, "w", encoding="utf-8") as f:
@@ -178,6 +190,7 @@ def update_readme():
 
     print("Successfully updated README.md with live metrics.")
     return True
+
 
 if __name__ == "__main__":
     update_readme()
