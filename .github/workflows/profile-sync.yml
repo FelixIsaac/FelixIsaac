@@ -40,8 +40,8 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet README.md; then
-            git add README.md
+          if ! git diff --quiet README.md assets/; then
+            git add README.md assets/
             git commit -m "chore(metrics): auto-refresh live project stars & releases [skip ci]"
             git pull --rebase origin main
             git push origin main

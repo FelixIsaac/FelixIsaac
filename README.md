@@ -3,14 +3,14 @@
 **Systems & Agent Infrastructure Engineer** · Singapore 🇸🇬  
 *Building lean transport primitives for humans and autonomous AI agents.*
 
+[Website](https://felixisaac.dev) · [Email](mailto:me@felixisaac.dev) · [Repositories](https://github.com/FelixIsaac?tab=repositories) · [Gists](https://gist.github.com/FelixIsaac)
+
 <!-- METRICS:START -->
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub%20Stars-60-de6e46?style=flat-square&logo=github&logoColor=white&labelColor=18181b" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Forks-34-3f3f46?style=flat-square&logo=git&logoColor=white&labelColor=18181b" alt="GitHub Forks" />
-  <img src="https://img.shields.io/badge/Active%20OSS-10%20repos-22c55e?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=18181b" alt="Active OSS" />
-  <a href="https://felixisaac.dev"><img src="https://img.shields.io/badge/felixisaac.dev-18181b?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
-  <a href="mailto:me@felixisaac.dev"><img src="https://img.shields.io/badge/me@felixisaac.dev-18181b?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg" />
+  <img alt="Live GitHub Metrics" src="./assets/metrics-dark.svg" />
+</picture>
 <!-- METRICS:END -->
 
 ```bash
@@ -52,7 +52,7 @@ Not everything has to be an MCP server. A few things built out of curiosity, hac
 | **[sisyphus-reader](https://github.com/FelixIsaac/sisyphus-reader)** | `HTML` · [Live](https://sisyphus-reader.pages.dev) | Critical reading companion & modern literary translation of Albert Camus's *The Myth of Sisyphus*. |
 | **[shelflife](https://github.com/FelixIsaac/shelflife)** | `Python` | Freshness & provenance verifier for civic directories — catches broken contacts and abstains when uncertain (*Hack for Humanity SF 2026*). |
 | **[pop-up-post](https://github.com/FelixIsaac/pop-up-post)** | `Swift` | Endless runner inside a pop-up book — fold the phone to flatten paper walls, open it to raise bridges (*Bitrig Hacks: iPhone Duo*). |
-| **[p3-fractions](https://github.com/FelixIsaac/p3-fractions)** | `TypeScript` | Interactive Primary 3 fractions practice app for primary-school maths. |
+| **[p3-fractions](https://github.com/FelixIsaac/p3-fractions)** | `TypeScript` · [Live](https://p3-fractions.felixisaac.dev) | Interactive Primary 3 fractions practice app for primary-school maths. |
 
 ---
 
@@ -82,17 +82,11 @@ npx @felixisaac/tandem
 
 ## 🧰 Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=de6e46" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-18181b?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-18181b?style=flat-square&logo=swift&logoColor=F05138" alt="Swift" />
-  <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/SQLite_WAL-18181b?style=flat-square&logo=sqlite&logoColor=44A8D6" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Tailscale-18181b?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img alt="Tech Stack" src="./assets/stack-dark.svg" />
+</picture>
 
 ---
 
@@ -110,6 +104,6 @@ npx @felixisaac/tandem
     <a href="https://github.com/FelixIsaac?tab=repositories">Repositories</a> ·
     <a href="https://gist.github.com/FelixIsaac">Gists</a>
     <br />
-    <i>Metrics & contribution snake auto-refresh via GitHub Actions.</i>
+    <i>Self-hosted SVG badges & contribution snake auto-refresh via GitHub Actions.</i>
   </sub>
 </div>
